@@ -1,11 +1,12 @@
 ---
-title: "SDS Lab - Home"
+title: "DOD NICE - Home"
 layout: homelay
 excerpt: "SDS Lab at Northeastern University."
 sitemap: false
 permalink: /
 ---
-The **Sustainability and Data Sciences Laboratory (SDS Lab)** develops novel insights in the interdisciplinary sciences of climate extremes and the engineering principles of networked lifelines to inform adaptation and policy. Physics-integrated spatiotemporal machine learning and nonlinear dynamics, especially from large-scale numerical model-simulations and remote or in-situ sensor data, enable the discovery of new insights in climate extremes and uncertainty, while network sciences and optimization along with engineering or ecological principles aid in understanding infrastructural or ecosystem vulnerability. Decision sciences and policy imperatives are integrated in the scientific discovery and technological invention processes to embed stakeholder perspectives. 
+<span style="color:blue">**Objective:**</span>
+US Department of Defense (DoD) installations and bases in the nation and across the globe face unprecedented external compound threats from a combination of natural hazards, terror organizations, rogue states, and even major-powers that may aspire to compete for superpower status. The growing interdependence of networked assets further lead to the possibility of cascading failures, which may in turn exacerbate internal threats caused by natural or technological failures, cyber-attacks or sabotage, as well as lack of adequate resources. The dynamic and exacerbating nature of threats, such as changing patterns of weather extremes, or evolving sophistication in dangerous malware, or even growing scarcity of resources for preparedness and maintenance, are increasing the chances of correlated extremes. Thus, climate change and infrastructural vulnerabilities are known to have increased the probability of compound weather extremes, while the possibility that nations with sophisticated cyberspace operational capabilities may choose to time the launch of a cyber-attack on the nation’s critical lifelines while the nation is facing a debilitating hurricane or riverine flood or wildfire, can no longer be ruled out (National Infrastructure Advisory Council 2018). Meanwhile, resources for preparedness and recovery have been growing scarce across civil and military installations owing to dynamic policy prescriptions and financial disincentives. The research team will develop coherent resilience theory and theoretical frameworks with computationally tractable theoretical methods for installation-level resilience, where, the specific focus will be on mapping failure and recovery pathways, adapting to changing conditions, and recovering from disruptions.
 
 <hr style="height:4px;border-width:1;color:gray;background-color:gray">
 
@@ -20,66 +21,34 @@ The **Sustainability and Data Sciences Laboratory (SDS Lab)** develops novel ins
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
         <li data-target="#carousel" data-slide-to="7"></li>
-        <li data-target="#carousel" data-slide-to="8"></li>
-        <li data-target="#carousel" data-slide-to="9"></li>
-        <li data-target="#carousel" data-slide-to="10"></li>
-        <li data-target="#carousel" data-slide-to="11"></li>
-        <li data-target="#carousel" data-slide-to="12"></li>
-        <li data-target="#carousel" data-slide-to="13"></li>
-        <li data-target="#carousel" data-slide-to="14"></li>
-        <li data-target="#carousel" data-slide-to="15"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SDS Website Slides Compact-1.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/home_1.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SDS Website Slides Compact-2.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/home_1.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SDS Website Slides Compact-3.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/home_1.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SDS Website Slides Compact-4.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/home_1.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SDS Website Slides Compact-5.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/home_1.png" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SDS Website Slides Compact-6.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/home_1.png" alt="Slide 6" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SDS Website Slides Compact-7.png" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/home_1.png" alt="Slide 7" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SDS Website Slides Compact-8.png" alt="Slide 8" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SDS Website Slides Compact-9.png" alt="Slide 9" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SDS Website Slides Compact-10.png" alt="Slide 10" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SDS Website Slides Compact-11.png" alt="Slide 11" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SDS Website Slides Compact-12.png" alt="Slide 12" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SDS Website Slides Compact-13.png" alt="Slide 13" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SDS Website Slides Compact-14.png" alt="Slide 14" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SDS Website Slides Compact-15.png" alt="Slide 15" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SDS Website Slides Compact-16.png" alt="Slide 16" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/home_1.png" alt="Slide 8" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -96,14 +65,14 @@ The **Sustainability and Data Sciences Laboratory (SDS Lab)** develops novel ins
 
 <!-- See our US Patents [here](https://sdslab.io/publications/#us-patents) -->
 **See our** [(Publications and Patents here)]({{ site.url }}{{ site.baseurl }}/publications) **!**
+ 
+<span style="color:blue">**Technical Approach:**</span>
+The overarching hypothesis that animates this project is that resilience framing, particularly for networked infrastructures subject to compound extremes, is best conceptualized, mathematically represented, and implemented through system-level structure complemented by multiplex-network strategy. The research team's solutions can be categorized into three parts: Mapping vulnerabilities, failure and recovery pathways - the hypothesis that resilience framing for compounding and potentially unknowable risks can be best accomplished by combining system dynamics and network science will be examined. Based on prior SERDP-funded work in the Norfolk Naval Base by members of this project's (Army Corps) team, as well as connections through a (Naval Research Laboratory) team member, the team will map installation fragilities and interdependence, along with failure and recovery pathways. Multiplex Network Science (MNS) will capture topology and dynamics, while Multiscale System Dynamics (MSD) will generate parsimonious representations of installation ‘metabolism’. Environmental, governance, military-civil, economic, societal, informational, and infrastructural dimensions will be considered. Adapting to unknown but systematic compound threats - the hypothesis that resilience and mission assurance strategies can be developed without knowledge of the specific nature of compounding threats or risks will be examined through simulated test cases where cyber-attacks follow flood events under resource crunch. Failure and recovery pathways will be simulated via contingency-based scenario generation. Recovering from compound and/or catastrophic events - the hypothesis that recovery of mission critical system functionality can be accomplished through the combined MNS-MSD approach described above will be examined.
 
-The SDS Lab, supported by the Civil and Environmental Engineering department at Northeastern University in Boston, MA, USA, is located right across the heart of the city across the Reflection Pool near the Prudential. 
 
-<span style="color:blue">**Product Development:**</span> The SDS Lab prides itself on the products, ranging from climate science discovery and novel engineering principles to peer-reviewed papers in top journals and highly selective conferences, as well as patents, text and edited books and chapters, besides connections with the private and public sectors, national laboratories and federal research organizations such as US DOE's PNNL and ORNL and NASA Ames, along with local and city governments. The SDS Lab and its prior incarnation at ORNL has authored 65 peer-reviewed journal articles with 5 more in review, 7 highly-selective and 41 selective peer-reviewed conference papers for a total of 136 conference presentations, 3 books and 24 book chapters, 11 technical notes and delivered 96 invited talks. The SDS Lab has developed 2 US patents, one in climate risk and one in infrastructure resilience, 3 invention disclosures, and spawned a climate analytics startup called risQ. The SDS Lab PI (Auroop Ganguly), with his students, postdocs and visiting professors, have published in top disciplinary and interdisciplinary venues in climate science (such as Nature, PNAS, and Nature Climate Change), lifeline engineering (e.g., IEEE Transactions and ASCE) and data science (e.g., KDD and IJCAI) with best paper awards in ACM KDD and SIAM Data Mining as well as best poster awards at AGU and AMS, leading to citations in the United Nations intergovernmental and United States national reports, highlights in scientific venues such as the journal Nature and in the National Science Foundation media, invitations at UN panels and as author or co-author of focused sections, as well as quotes and citations in the national and global media. The SDS Lab does not have any long-standing connections or commitments to governmental or intergovernmental bodies of national or global bodies but has cultivated relations with private-public-government research and practice communities. 
+<span style="color:blue">**Benefits:**</span>
+This hypothesis-guided research will lead to novel frameworks and models for improving the science of resilience with an ultimate, long-term view of providing actionable insights for ensuring DoD’s readiness to unknown and possibly unknowable compounding risks.
 
-<span style="color:blue">**Workforce Contributions:**</span> Northeastern SDS Lab (and prior incarnation at ORNL) alums and research mentees of the SDS Lab PI have assumed key research and leadership roles in the private sector, government research institutes, and in academia. Our graduate and postgraduate alums are in US federal agencies such as NASA and in US national laboratories such as DOE’s ORNL and DOT’s VOLPE, as well as in niche and leadership roles in the US private sector in areas such as machine learning, risk modeling and engineering. One PhD alum is the co-founder and CEO of a growing climate analytics startup, while several other PhD or postgraduate as well as visiting faculty alums are in the US and Indian academia include award-winning professors at multiple campuses of the Indian Institute of Technology. Our undergraduate alums are spread across the private and public sectors and have been accepted in top graduate programs in the US, including MIT, Stanford, Berkeley and in rare occasions absorbed within Northeastern. A few of our graduate alums have chosen to join the finance and insurance sector.
-
-<span style="color:blue">**Funding Grants:**</span> The SDS Lab has been and continues to be generously funded by US federal agencies such as NSF, DOD, NASA, DHS, DOE and DOE Labs. Occasional funding and in-kind support have been received from the private and public sectors. During the last 17 years as an independent researcher, first at US DOE's Oak Ridge National Laboratory and now at Northeastern University, the total dollar value of the grants in which the PI Auroop Ganguly has taken part or continues to take part is of the order of US $25M. The PI has prior background in the private industry, including Oracle Corporation and a best-of-breed company called Demantra Inc. that was acquired by Oracle, and has co-founded two startups including risQ. The PI is currently a joint scientist at US DOE's Pacific Northwest National Laboratory and the Chief Scientific Adviser at risQ. The students and postdocs, as well as visiting faculty, at the SDS Lab benefit from our strong experiential relationships with federal agencies such as NASA Ames and DOE Labs such as PNNL and ORNL, as well as the private and public sectors including the Lab spinout startup risQ.
 
 
 
@@ -115,9 +84,11 @@ The SDS Lab, supported by the Civil and Environmental Engineering department at 
 <figure class="fourth">
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_01.png" style="width: 120px">](https://www.pnnl.gov/)
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_02.png" style="width: 120px">](https://www.nasa.gov/)
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/us_army.jpg" style="width: 120px">](https://www.usace.army.mil/)
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_03.png" style="width: 120px">](https://www.ornl.gov/)
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NEU.png" style="width: 120px">](https://www.northeastern.edu/)
    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/risq.png" style="width: 120px">](https://www.risq.io/)
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ucbrkley.png" style="width: 120px">](https://www.berkeley.edu/)
 </figure>
+
+
