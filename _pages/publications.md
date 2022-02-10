@@ -1,5 +1,5 @@
 ---
-title: "SDS Lab - Publications"
+title: "DOD NICE - Publications"
 layout: gridlay
 excerpt: "SDS Lab -- Publications."
 sitemap: false
