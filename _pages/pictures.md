@@ -1,5 +1,5 @@
 ---
-title: "SDS Lab - Pictures"
+title: "DOD NICE - Pictures"
 layout: piclay
 excerpt: "SDS Lab -- Pictures"
 permalink: /pictures/
