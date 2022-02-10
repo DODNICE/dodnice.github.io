@@ -1,19 +1,29 @@
 - name: MARTA C. GONZALEZ
-  photo: Marta.jpg
+  photo: Marta2.jpg
   info: ASSOCIATE PROFESSOR OF CITY & REGIONAL PLANNING.
   email: martag@berkeley.edu
-  number_educ: 3
-  education1: PhD in Geography, McGill University.
-  education2: MSc in Water Science, Policy and Management, University of Oxford.
-  education3: BSc in Earth Systems (Oceans Track), Stanford University.
+  number_educ: 2
+  education1: PhD Physics 2003-2006, Stuttgart Universitat, Germany.
+  education2: Statistical Physics of Complex Systems and Network Science founded my scientific approach, Spatial AI, digital traces, and Environmental data
+  education3: 
   education4: 
 
-- name: Sebastian Ruf
-  photo: Seb.jpeg
-  info: Postdoc, started from July 2021.
+- name: Sam Chatterjee
+  photo: sam.jpg
+  info: Data Scientist, Pacific Northwest National Laboratory.
   email: s.ruf@northeastern.edu
-  number_educ: 3
-  education1: PhD in Electrical and Computer Engineering from Georgia Institute of Technology.
-  education2: MS in Mechanical Engineering from University of California, Berkeley.
-  education3: BS in Mechanical Engineering from University of California, Berkeley.
+  number_educ: 2
+  education1: Ph.D., Civil Engineering (Systems Risk Analysis), Vanderbilt University.
+  education2: Infrastructure system security and resilience, Risk and decision analysis, Probabilistic modeling, simulation, and optimization, Statistical learning, Network science
+  education3: 
+  education4:
+  
+- name: Benjamin Trump
+  photo: Ben.jpg
+  info: Research Social Scientist at U.S. Army Engineer Research and Development Center (ERDC).
+  email: benjamin.d.trump@usace.army.mil
+  number_educ: 2
+  education1: University of Michigan.
+  education2: Governance, Risk Governance, Emerging Technologies, Synthetic Biology. 
+  education3: 
   education4:
