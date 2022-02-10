@@ -1,5 +1,5 @@
 ---
-title: "SDS Lab - Team"
+title: "DOD NICE - Team"
 layout: gridlay
 excerpt: "SDS Lab: Team members"
 sitemap: false
