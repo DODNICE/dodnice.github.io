@@ -68,7 +68,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-### Postdoctoral Associates
+### Investigator
 {% assign number_printed = 0 %}
 {% for member in site.data.Postdoc %}
 
@@ -194,7 +194,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-### Undergraduate Students
+<!-- ### Undergraduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.Undergrad %}
 
@@ -225,7 +225,7 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
+ -->
 
 ### Alumni (Northeastern)
 
@@ -260,7 +260,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-### Alumni (Postgraduate Students)
+<!-- ### Alumni (Postgraduate Students)
 
 <div class="row">
 
@@ -270,11 +270,11 @@ permalink: /team/
 {{ member.name }}
 {% endfor %}
 </div>
-</div>
+</div> -->
 
 
 
-### Alumni (Undergraduate Students)
+<!-- ### Alumni (Undergraduate Students)
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -299,7 +299,7 @@ permalink: /team/
 </div>
 
 </div>
-
+ -->
 
 ### Alumni (ORNL and other: prior to Northeastern)
 {% assign number_printed = 0 %}
