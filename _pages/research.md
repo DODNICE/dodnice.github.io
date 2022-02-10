@@ -1,5 +1,5 @@
 ---
-title: "SDS Lab - Research"
+title: "DOD NICE - Research"
 layout: textlay
 excerpt: "SDS Lab -- Research"
 sitemap: false
