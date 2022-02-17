@@ -34,15 +34,8 @@ For a detailed list of funding grants, see the PI's CV [here](https://coe.northe
 
 ## Presentations:
 
-<span style="color:blue">**Keynotes: The National Academy**</span>
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/318854857" width="350" height="198" frameborder="0" allowfullscreen></iframe>
-
-<span style="color:blue">**Convergent Research to Industry Startups by SDS Lab PI Auroop Ganguly and risQ CEO (and SDS Lab PhD alumnus) Evan Kodra**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/embed/Eq4JDHhVno4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<span style="color:blue">**SDS Lab Research Overview: Invited Talk at IIT Gandhinagar by Auroop Ganguly:**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/embed/Xzd8mzL8vKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<span style="color:blue">**SERDP Symposium**</span>
+<iframe width="350" height="198" src="https://www.youtube.com/watch?v=_I4a2t24_88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <span style="color:blue">**SERDP 2020-Symposium: Project NICE by Auroop Ganguly**</span>
 <iframe width="350" height="198" src="https://www.youtube.com/embed/BRsifIgUdHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -50,24 +43,24 @@ For a detailed list of funding grants, see the PI's CV [here](https://coe.northe
 <span style="color:blue">**NSF ScienceLives interview:**</span>
 <iframe width="350" height="198" src="https://www.youtube.com/embed/qd_Nmv1v1OE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Related Presentations:
+
+<span style="color:blue">**Keynotes: The National Academy**</span>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/318854857" width="350" height="198" frameborder="0" allowfullscreen></iframe>
+
+
+<span style="color:blue">**Convergent Research to Industry Startups by SDS Lab PI Auroop Ganguly and risQ CEO (and SDS Lab PhD alumnus) Evan Kodra**</span>
+<iframe width="350" height="198" src="https://www.youtube.com/embed/Eq4JDHhVno4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<span style="color:blue">**SDS Lab Research Overview: Invited Talk at IIT Gandhinagar by Auroop Ganguly:**</span>
+<iframe width="350" height="198" src="https://www.youtube.com/embed/Xzd8mzL8vKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <span style="color:blue">**SDS Lab Climate Research Introduction:**</span>
 <iframe width="350" height="198" src="https://www.youtube.com/embed/_QwVCpKyy2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <span style="color:blue">**SDS Lab Resilience Research Introduction:**</span>
 <iframe width="350" height="198" src="https://www.youtube.com/embed/DdHSYUOZgto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-## Repositories:
-
-Code or Data Repositories by current or former SDS Lab team and close collaborators:
-
-<span style="color:blue">**GitHub Pages:**</span> 
-* Climate Machine Learning by [Thomas James Vandal](https://github.com/tjvandal)
-* Deep Emulaton of Satellite Data and Models by [Kate Duffy](https://github.com/KateDuffy)
-* Climate Risk and Infrastructure Resilience by [Udit Bhatia](https://github.com/udit1408) 
-* Transportation Infrastructure Resilience by [Nishant Yadav](https://github.com/nisyad)
-* Climate Downscaling and Spatiotemporal Analysis by [Yumin Liu](https://github.com/yuminliu)
 
 
 <span style="color:blue">**Journal Repositories (check supplemental information):**</span> 
