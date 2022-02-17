@@ -79,7 +79,7 @@ This hypothesis-guided research will lead to novel frameworks and models for imp
 <!--  **We are  looking for passionate new PhD and Postdocs students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
 <!-- blank line -->
-<span style="color:blue">**Experiential Collaborators:**</span>
+<span style="color:blue">**Collaborators:**</span>
 <!-- blank line -->
 <figure class="fourth">
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NEU.png" style="width: 110px">](https://www.northeastern.edu/)
