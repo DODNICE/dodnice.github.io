@@ -35,7 +35,7 @@ For a detailed list of funding grants, see the PI's CV [here](https://coe.northe
 ## Presentations:
 
 <span style="color:blue">**SERDP Symposium**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/watch?v=_I4a2t24_88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="350" height="198" src="https://www.youtube.com/embed/_I4a2t24_88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <span style="color:blue">**SERDP 2020-Symposium: Project NICE by Auroop Ganguly**</span>
 <iframe width="350" height="198" src="https://www.youtube.com/embed/BRsifIgUdHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
