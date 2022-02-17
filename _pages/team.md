@@ -68,7 +68,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-### Investigator
+### Co-Investigator
 {% assign number_printed = 0 %}
 {% for member in site.data.Postdoc %}
 
