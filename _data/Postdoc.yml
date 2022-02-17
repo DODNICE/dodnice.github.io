@@ -1,3 +1,13 @@
+- name: Sam Chatterjee (Co-Lead)
+  photo: sam.jpg
+  info: Data Scientist, Pacific Northwest National Laboratory.
+  email: s.ruf@northeastern.edu
+  number_educ: 2
+  education1: Ph.D., Civil Engineering (Systems Risk Analysis), Vanderbilt University.
+  education2: Infrastructure system security and resilience, Risk and decision analysis, Probabilistic modeling, simulation, and optimization, Statistical learning, Network science
+  education3: 
+  education4:
+  
 - name: MARTA C. GONZALEZ
   photo: Marta2.jpg
   info: ASSOCIATE PROFESSOR OF CITY & REGIONAL PLANNING.
@@ -7,14 +17,15 @@
   education2: Statistical Physics of Complex Systems and Network Science founded my scientific approach, Spatial AI, digital traces, and Environmental data
   education3: 
   education4: 
-
-- name: Sam Chatterjee
-  photo: sam.jpg
-  info: Data Scientist, Pacific Northwest National Laboratory.
-  email: s.ruf@northeastern.edu
+  
+  
+- name: Satish CHIKKAGOUDAR
+  photo: Satish.jpeg
+  info: Research Social Scientist at U.S. Army Engineer Research and Development Center (ERDC).
+  email: benjamin.d.trump@usace.army.mil
   number_educ: 2
-  education1: Ph.D., Civil Engineering (Systems Risk Analysis), Vanderbilt University.
-  education2: Infrastructure system security and resilience, Risk and decision analysis, Probabilistic modeling, simulation, and optimization, Statistical learning, Network science
+  education1: University of Michigan.
+  education2: Governance, Risk Governance, Emerging Technologies, Synthetic Biology. 
   education3: 
   education4:
   
@@ -27,3 +38,23 @@
   education2: Governance, Risk Governance, Emerging Technologies, Synthetic Biology. 
   education3: 
   education4:
+  
+- name: Steven Flynn
+  photo: steve_Flynn.jpeg
+  info: Research Social Scientist at U.S. Army Engineer Research and Development Center (ERDC).
+  email: benjamin.d.trump@usace.army.mil
+  number_educ: 2
+  education1: University of Michigan.
+  education2: Governance, Risk Governance, Emerging Technologies, Synthetic Biology. 
+  education3: 
+  education4:
+  
+- name: Igor Linkov
+  photo: igor.jpeg
+  info: Research Social Scientist at U.S. Army Engineer Research and Development Center (ERDC).
+  email: benjamin.d.trump@usace.army.mil
+  number_educ: 2
+  education1: University of Michigan.
+  education2: Governance, Risk Governance, Emerging Technologies, Synthetic Biology. 
+  education3: 
+  education4:  
