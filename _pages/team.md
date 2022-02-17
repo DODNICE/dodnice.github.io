@@ -132,7 +132,7 @@ permalink: /team/
 
 
 
-### Doctoral Students 
+### Doctoral and Post-Doctoral Students 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -227,7 +227,7 @@ permalink: /team/
 {% endif %}
  -->
 
-### Alumni (Northeastern)
+<!-- ### Alumni (Northeastern)
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -258,7 +258,7 @@ permalink: /team/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 <!-- ### Alumni (Postgraduate Students)
 
@@ -301,7 +301,7 @@ permalink: /team/
 </div>
  -->
 
-### Alumni (ORNL and other: prior to Northeastern)
+<!-- ### Alumni (ORNL and other: prior to Northeastern)
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -331,5 +331,5 @@ permalink: /team/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
