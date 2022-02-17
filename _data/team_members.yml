@@ -1,21 +1,3 @@
-- name: Puja Das
-  photo: Puja.jpg
-  info: PhD Student, started Fall 2020.
-  email: das.puj@northeastern.edu
-  number_educ: 1
-  education1: BSc. in Water Resources Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a>. 
-  education2:
-  education3:
-  education4:
-
-- name: Kate Duffy
-  photo: Duffy.jpeg
-  info: Interdisciplinary PhD Student, started Fall 2017.
-  email: duffy.k@northeastern.edu
-  number_educ: 1
-  education1: BS in Environmental Engineering from Cornell University.
-  education2: 
-
 - name: Ashis Kumar Pal
   photo: Ashis.jpg
   info:  Interdisciplinary PhD Student, started Fall 2020.
@@ -26,9 +8,9 @@
   education3:
   education4:
 
-- name: Bharat Sharma
-  photo: Bharat.png
-  info: Interdisciplinary PhD Student, started Fall 2016.
+- name: Cristobal Pais Martinez
+  photo: cristobal.png
+  info: Post Doc Student, started Fall 2016.
   email: sharma.bha@northeastern.edu
   number_educ: 2
   education1: MSc. in Transportation Systems from <a href="https://www.tum.de/en/">Technical University of Munich</a>.
@@ -43,26 +25,3 @@
   education2: 
   education3:
 
-- name: Nishant Yadav
-  photo: Yadav.jpeg
-  info: Interdisciplinary PhD Student, started Spring 2019.
-  email: yadav.ni@northeastern.edu
-  number_educ: 2
-  education1: MS in Intelligent Systems from <a href="https://umich.edu/">University of Michigan</a>
-  education2: B.Tech. in Civil and Environmental Engineering from IIT, Guwahati.
-  
-- name: Stone Chen
-  photo: Stone.jpeg
-  info: Interdisciplinary PhD Student, started Fall 2021.
-  email: chen.sto@northeastern.edu
-  number_educ: 2
-  education1: BA and MA in Biochemistry/biotechnology from Boston University.
-  education2: BS/MS in Statistics from University of Auckland.
-
-- name: Dian Indrawati
-  photo: Dian.jpg
-  info: Interdisciplinary PhD Student, started Fall 2021.
-  email: dian.ind@northeastern.edu
-  number_educ: 1
-  education1: BA in Civil Engineering from Universitas Jenderal Achmad Yani.
-  education2: 
