@@ -82,13 +82,13 @@ This hypothesis-guided research will lead to novel frameworks and models for imp
 <span style="color:blue">**Experiential Collaborators:**</span>
 <!-- blank line -->
 <figure class="fourth">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_01.png" style="width: 120px">](https://www.pnnl.gov/)
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/us_army.jpg" style="width: 120px">](https://www.usace.army.mil/)
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NEU.png" style="width: 120px">](https://www.northeastern.edu/)
-   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ucbrkley.png" style="width: 120px">](https://www.berkeley.edu/)
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NEU.png" style="width: 110px">](https://www.northeastern.edu/)
+   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_01.png" style="width: 110px">](https://www.pnnl.gov/)
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/us_army.jpg" style="width: 110px">](https://www.usace.army.mil/)
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ucbrkley.png" style="width: 110px">](https://www.berkeley.edu/)
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/USN.jpeg" style="width: 110px">](https://www.nrl.navy.mil/)
 </figure>
-
-
