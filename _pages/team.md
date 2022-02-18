@@ -1,7 +1,7 @@
 ---
 title: "DOD NICE - Team"
 layout: gridlay
-excerpt: "SDS Lab: Team members"
+excerpt: "DOD SERDP RC20-1183: Team members"
 sitemap: false
 permalink: /team/
 ---
