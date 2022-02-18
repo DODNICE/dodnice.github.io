@@ -1,7 +1,7 @@
 ---
 title: "DOD NICE - Research"
 layout: textlay
-excerpt: "SDS Lab -- Research"
+excerpt: "DOD SERDP RC20-1183 -- Research"
 sitemap: false
 permalink: /research/
 ---
