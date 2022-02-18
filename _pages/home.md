@@ -1,7 +1,7 @@
 ---
 title: "DOD NICE - Home"
 layout: homelay
-excerpt: "SDS Lab at Northeastern University."
+excerpt: "DOD SERDP RC20-1183."
 sitemap: false
 permalink: /
 ---
