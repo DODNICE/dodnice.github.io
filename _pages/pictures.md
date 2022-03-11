@@ -31,10 +31,10 @@ Coming soon.
 <a href='https://violetlingenfelter.com/projects/dialogue-website/about/'>2019</a><br />
 <a href='https://cee.northeastern.edu/news/the-2020-virtual-dialogue-of-civilizations-program-on-climate-change-science-and-policy/'>2020</a><br />
 --> 
-
+<!-- 
 ### <a href='https://www.nature.com/articles/454673a'>The CNAS climate wargames which originally motivated the Dialogue wargames</a><br />
 
-<hr>
+<hr> -->
 
 # Gallery
 {% assign number_printed = 0 %}
