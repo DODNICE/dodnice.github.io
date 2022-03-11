@@ -1,36 +1,6 @@
-- date: 06. Oct 2021
-  headline: "Evan Kodra, SDS Lab alumnus and CEO of climate risk analytics startup <a href='https://www.risq.io/'> risQ </a>, delivers an invited keynote titled <a href='https://www.youtube.com/watch?v=wA7KgAQsiFs'> Climate Resilience from Academia to Startup </a> at the Indian Institute of Technology (IIT) Bombay."
+- date: 28. May 2020
+  headline: "CEE Professor Auroop Ganguly is the lead PI on a $3M grant for “NICE: Networked Infrastructures under Compound Extremes” from the DoD’s Strategic Environmental Research and Development Program (SERDP). The project is in collaboration with the University of California at Berkeley, US DOE’s Pacific Northwest National Lab, the US Army Corps of Engineers, and the US Naval Research Lab and will fund the research into networked infrastructures under compound extremes."
 
-- date: 24. Sep 2021
-  headline: "A report on climate change and wildfires by SDS Lab spinout <a href='https://www.risq.io/'> risQ </a> gets acknowledged in an <a href='https://www.youtube.com/watch?v=XcMOyna9ixE'> NBC News video </a> on climate justice."
 
-- date: 20. Sep 2021
-  headline: "SDS Lab PhD student Nishant Yadav starts an internship with the Hitachi AI Labs in Santa Clara, CA."
-
-- date: 04. July 2021
-  headline: "Happy Fourth! Kate Duffy's PhD dissertation defense is on July 15 at noon Eastern. Join the public defense <a href='https://nam12.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_NTA2ZDJiYmYtYWU0Yi00Yjk2LThlZWYtNzEzZWJjMzdkNGY5%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522a8eec281-aaa3-4dae-ac9b-9a398b9215e7%2522%252c%2522Oid%2522%253a%2522d7aa7111-64f7-4a3b-bb05-28b8dd74960d%2522%257d&data=04%7C01%7Cpal.as%40northeastern.edu%7C6e1ff87f31334dc9fab408d947a624d4%7Ca8eec281aaa34daeac9b9a398b9215e7%7C0%7C0%7C637619601216819072%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=csqx1%2BOoloxlCH8vfh8v5WQlfoNFeT7Nwt%2FtTESuuHU%3D&reserved=0'>here</a>. Her work at the intersection of climate-ecology broadly continues the theme of Daiwei Wang's <a href='https://www.nature.com/articles/nature14235'>Nature paper</a>.  Her work on deep emulation for satellite remote sensing is joint with NASA." 
-
-- date: 1. July 2021
-  headline: "Welcome Dr. Antonia Sohns and Dr. Sebastian Ruf as Postdoctoral Research Associates. Read their papers on <a href='https://link.springer.com/article/10.1007/s00267-020-01387-1'>participatory modeling</a>  and <a href='https://ieeexplore.ieee.org/abstract/document/8896074'> contagion spread </a>  respectively."
-
-- date: 28. June 2021
-  headline: "Poulomi Ganguli's <a href='https://www.nature.com/articles/s41598-017-12133-9'>Scientific Reports paper</a>, based on her postdoctoral research at the SDS Lab in the climate-water-energy nexus, is highlighted in an <a href='https://www.eenews.net/stories/1063735943'>E&E News article</a>. "
-
-- date: 1. June 2021
-  headline: "Stone Chen has moved back to Boston and will officially join the SDS Lab as a PhD student starting Fall 2021. See his <a href='https://www.nature.com/articles/s41598-020-67088-1'>prior collaborative work</a> with the SDS Lab on physics-guided uncertainty quantification."
-
-- date: 26. May 2021
-  headline: "Subimal Ghosh, a professor at the Indian Institute of Technology Bombay and a long time collaborator of the SDS Lab, gets AGU's prestigious <a href='https://eos.org/agu-news/subimal-ghosh-receives-2020-devendra-lal-memorial-medal'>DL Memorial award</a>. Read a Nature Climate Change <a href='https://www.nature.com/articles/nclimate1327'>paper</a> which resulted from Subimal's prior collaboration with the SDS Lab. "
-
-- date: 10. May 2021
-  headline: "Doctoral students Puja Das and Jack Watson start internships at NASA's Ames Research Center and US DOE's Pacific Northwest National Laboratory (PNNL) respectively. "
-
-- date: 22. March 2021
-  headline: "Shashank Konduri, PhD student at the SDS Lab, joins NASA's Goddard Space Flight Center (see NU-COE <a href='https://coe.northeastern.edu/news/onto-nasas-goddard-space-flight-center/'>news article</a> ). Read one of Shashank's papers on remote sensing <a href='https://www.sciencedirect.com/science/article/pii/S0034425720304181?via%3Dihub'>here</a>. "
-
-- date: 21. October 2020
-  headline: "Auroop Ganguly is quoted in an <a href='https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/climate-change-poses-big-water-risks-for-nuclear-fossil-fueled-plants-60669992'>article </a> on the climate-water-energy nexus by S&P Global. "
-
-- date: 8. January 2020
-  headline: "Northeastern SDS Lab climate risk analytics spinout <a href='https://www.risq.io/'>risQ</a> emerges from stealth <a href='https://www.businesswire.com/news/home/20200108005592/en/risQ-and-Intercontinental-Exchange-Announce-Collaboration-to-Bring-Climate-Risk-Analytics-to-the-Municipal-Bond-Ecosystem'>(BusinessWire News)</a>. The co-founders include former SDS Lab PhD student Evan Kodra, currently the CEO, and SDS Lab PI Auroop Ganguly, currently the Chief Scientific Adviser. "
-
+# - date: 06. Oct 2021
+#   headline: "Evan Kodra, SDS Lab alumnus and CEO of climate risk analytics startup <a href='https://www.risq.io/'> risQ </a>, delivers an invited keynote titled <a href='https://www.youtube.com/watch?v=wA7KgAQsiFs'> Climate Resilience from Academia to Startup </a> at the Indian Institute of Technology (IIT) Bombay."
