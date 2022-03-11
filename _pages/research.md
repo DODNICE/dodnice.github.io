@@ -7,11 +7,12 @@ permalink: /research/
 ---
 
 ## Research
-The SDS Lab research themes are described in the [Home Page]({{ site.url }}{{ site.baseurl }}/) while selected publications are highlighted in the [Publications]({{ site.url }}{{ site.baseurl }}/publications) page. Here we provide a list of our selected funding, including organizations funding our experiential PhD students, as well as a few presentations and posters which may provide a summary of our research. Furthermore, we provide links to shared codes and data repositories developed by current and former SDS Lab members.
+<!-- The SDS Lab research themes are described in the [Home Page]({{ site.url }}{{ site.baseurl }}/) while selected publications are highlighted in the [Publications]({{ site.url }}{{ site.baseurl }}/publications) page. Here we provide a list of our selected funding, including organizations funding our experiential PhD students, as well as a few presentations and posters which may provide a summary of our research. Furthermore, we provide links to shared codes and data repositories developed by current and former SDS Lab members. -->
+Coming soon.
 
 
-## Funding
-The SDS Lab PI Auroop Ganguly has been directly involved in funding grants for research totaling around $25 Million during his last 10 years at Northeastern University and prior 7 years at the Oak Ridge National Laboratory. His funding has primarily come from US federal agencies such as NSF, DOD, NASA, DHS, DOE and DOE Labs, with occasional grants and in-kind support from the private and public sectors. Ganguly has also managed several large projects and products during his experience in the private sector. Here we list a few selected research funding.
+## Previous Funds of PI
+Auroop Ganguly has been directly involved in funding grants for research totaling around $25 Million during his last 10 years at Northeastern University and prior 7 years at the Oak Ridge National Laboratory. His funding has primarily come from US federal agencies such as NSF, DOD, NASA, DHS, DOE and DOE Labs, with occasional grants and in-kind support from the private and public sectors. Ganguly has also managed several large projects and products during his experience in the private sector. Here we list a few selected research funding.
 
 * <p><strong><span style='font-size:18px;font-family:"Cammron",sans-serif;color:#000000;'>Selected Funding:</span></strong></p>
   * Networked Infrastructure under Compound Extremes (NICE). US DOD SERDP. ([DOD Announcement](https://www.serdp-estcp.org/Program-Areas/Resource-Conservation-and-Resiliency/Infrastructure-Resiliency/Vulnerability-and-Impact-Assessment/RC20-1183), [NU News](https://coe.northeastern.edu/news/ganguly-to-lead-3m-serdp-grant-for-networked-infrastructures-under-compound-extremes/) and [SERDP Poster Presentation](https://www.youtube.com/watch?v=BRsifIgUdHA))
@@ -63,10 +64,10 @@ For a detailed list of funding grants, see the PI's CV [here](https://coe.northe
 <iframe width="350" height="198" src="https://www.youtube.com/embed/DdHSYUOZgto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<span style="color:blue">**Journal Repositories (check supplemental information):**</span> 
+<!-- <span style="color:blue">**Journal Repositories (check supplemental information):**</span> 
 * [Extreme Value Theory in Nature Climate Change](https://www.nature.com/articles/nclimate1327?proof=t)
 * [Climate and Coastal Upwelling in Nature](https://www.nature.com/articles/nature14235#journal-info)
-* [Water Stress under Population and Climate in Computers & Geosciences](https://www.sciencedirect.com/science/article/pii/S0098300412000210)
+* [Water Stress under Population and Climate in Computers & Geosciences](https://www.sciencedirect.com/science/article/pii/S0098300412000210) -->
 
  
   
