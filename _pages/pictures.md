@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Events Organized by SERDP Team 
-Coming soon.
+This section is under construction.
 
 <br>
 
