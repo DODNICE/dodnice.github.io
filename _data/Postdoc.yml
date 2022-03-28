@@ -2,9 +2,9 @@
   photo: sam.jpg
   info: Data Scientist, Pacific Northwest National Laboratory.
   email: samrat.chatterjee@pnnl.gov
-  number_educ: 2
-  education1: Ph.D., Civil Engineering (Systems Risk Analysis), Vanderbilt University.
-  education2: Infrastructure system security and resilience, Risk and decision analysis, Probabilistic modeling, simulation, and optimization, Statistical learning, Network science
+  number_educ: 1
+  education1: Infrastructure system security and resilience, Risk and decision analysis, Probabilistic modeling, simulation, and optimization, Statistical learning, Network science.
+  education2: 
   education3: 
   education4:
   
@@ -12,49 +12,48 @@
   photo: Marta2.jpg
   info: ASSOCIATE PROFESSOR OF CITY & REGIONAL PLANNING.
   email: martag@berkeley.edu
-  number_educ: 2
-  education1: PhD Physics 2003-2006, Stuttgart Universitat, Germany.
-  education2: Statistical Physics of Complex Systems and Network Science founded my scientific approach, Spatial AI, digital traces, and Environmental data
+  number_educ: 1
+  education1: Statistical Physics of Complex Systems and Network Science founded my scientific approach, Spatial AI, digital traces, and Environmental data.
+  education2: 
   education3: 
   education4: 
   
   
 - name: Satish CHIKKAGOUDAR
   photo: Satish.jpeg
-  info: Research Social Scientist at U.S. Army Engineer Research and Development Center (ERDC).
-  email: benjamin.d.trump@usace.army.mil
-  number_educ: 2
-  education1: University of Michigan.
-  education2: Governance, Risk Governance, Emerging Technologies, Synthetic Biology. 
-  education3: 
-  education4:
+  info: U.S. Naval Research Laboratory.
+  email: satish.chikkagoudar@nrl.navy.mil
+  number_educ: 1
+  education1: Principal Investigator for several cybersecurity projects with a focus on fundamental research as well as transition-able solutions.
+  education2: 
+  education3:
   
 - name: Benjamin Trump
   photo: Ben.jpg
   info: Research Social Scientist at U.S. Army Engineer Research and Development Center (ERDC).
   email: benjamin.d.trump@usace.army.mil
-  number_educ: 2
-  education1: University of Michigan.
-  education2: Governance, Risk Governance, Emerging Technologies, Synthetic Biology. 
+  number_educ: 1
+  education1: Research social scientist.
+  education2: 
   education3: 
   education4:
   
 - name: Steven Flynn
   photo: steve_Flynn.jpeg
-  info: Research Social Scientist at U.S. Army Engineer Research and Development Center (ERDC).
-  email: benjamin.d.trump@usace.army.mil
-  number_educ: 2
-  education1: University of Michigan.
-  education2: Governance, Risk Governance, Emerging Technologies, Synthetic Biology. 
+  info: Professor of Political Science, Northeastern School of Public Policy & Urban Affairs.
+  email: s.flynn@northeastern.edu
+  number_educ: 1
+  education1: Founding Director, Global Resilience Institute; 
+  education2:  
   education3: 
   education4:
   
 - name: Igor Linkov
   photo: igor.jpeg
   info: Research Social Scientist at U.S. Army Engineer Research and Development Center (ERDC).
-  email: benjamin.d.trump@usace.army.mil
-  number_educ: 2
-  education1: University of Michigan.
-  education2: Governance, Risk Governance, Emerging Technologies, Synthetic Biology. 
+  email: Igor.Linkov@usace.army.mil
+  number_educ: 1
+  education1: Risk and Decision Science Focus Area Lead.
+  education2: 
   education3: 
   education4:  
