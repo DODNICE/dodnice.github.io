@@ -6,7 +6,7 @@ sitemap: false
 permalink: /Workshop1/
 ---
 
-## Research
+## Workshop 2022
 <!-- The SDS Lab research themes are described in the [Home Page]({{ site.url }}{{ site.baseurl }}/) while selected publications are highlighted in the [Publications]({{ site.url }}{{ site.baseurl }}/publications) page. Here we provide a list of our selected funding, including organizations funding our experiential PhD students, as well as a few presentations and posters which may provide a summary of our research. Furthermore, we provide links to shared codes and data repositories developed by current and former SDS Lab members. -->
 This section is under construction.
 
@@ -23,52 +23,48 @@ Auroop Ganguly has been directly involved in funding grants for research totalin
 
 <br />
 
-* <p><strong><span style='font-size:18px;font-family:"Lato",sans-serif;color:#000000;'>Organizations funding Experiential PhD Students:</span></strong></p>
-  * NASA (Ames Research Center)
-  * US DOE's Oak Ridge National Laboratory
-  * US DOE's Pacific Northwest National Laboratory
-  * risQ Inc.
+SERDP-NICE 2022 Hybrid Workshop Agenda (DRAFT)
+Venue: Northeastern University, Boston, MA (all times US Eastern)
 
-For a detailed list of funding grants, see the PI's CV [here](https://coe.northeastern.edu/wp-content/uploads/auroopganguly-fullcv-june2021.pdf)
+Day 1: Tuesday, November 1 (Session 1: Setting the Stage)
+Session Chair: Ben Trump, Army Corps
+• 1:00 – 2:00 PM: Igor Linkov, Army Corps (Resilience Paradigm: Techno-social)
+• 2:00 – 3:00 PM: Stephen Flynn, Northeastern (Resilience Paradigm: Policy)
+• 3:00 – 4:00 PM: Edmund Russo, Army Corps (Resilience Practice: DOD Installations)
+• 4:00 – 5:00 PM: Susan Wolters & Rumanda Young, Army Corps (Data and Needs)
+5:00 PM: Adjourn Day 1
 
-<hr>
+Day 2: Wednesday, November 2 (Session 2: SERDP NICE Projects: Part I)
+Session Chair: Sam Chatterjee, PNNL
+• 11:00 – 11:30 AM: Auroop Ganguly, Northeastern (State of the Project)
+• 11:30 – 12:00 PM: Ben Trump, Army Corps (Sociotechnical)
+• 12:00 – 12:30 PM: Marta Gonzalez, Berkeley (Networks)
+12:30 – 1:30 PM: Lunch Break
+Day 2: Wednesday, November 2 (Session 3: SERDP NICE Projects: Part II)
+Session Chair: Marta Gonzalez, Berkeley
+• 1:30 – 2:00 PM: Sam Chatterjee, PNNL (Graphs)
+• 2:00 – 2:30 PM: Robert Brigantic, PNNL (DOD Data)
+• 2:30 – 3:00 PM: Satish Chikkagoudar, NRL (Cyber)
+3:00 – 3:30 PM: Break and Mixer
+Day 2: Wednesday, November 2 (Session 4: SERDP NICE Futures)
+Session Chair: Auroop Ganguly, Northeastern
+• 3:30 – 4:00 PM: Alexandre Tartakovsky, Urbana (Physics-ML)
+• 4:00 – 4:30 PM: Mahantesh Halappanavar, PNNL (HPC-Networks)
+• 4:30 – 5:00 PM: Himangshu Das, Army Corps (Flood Resilience)
+5:00 PM: Adjourn Day 2
 
-## Presentations:
+Day 3: Thursday, November 3 (Session 5: External Perspectives)
+Session Chair: Steve Flynn, Northeastern
+• 11:00 – 12:00 PM: Keynote Talk 1: Dan Eisenberg, NPS (SERDP Project Lessons)
+• 12:00 – 12:30 PM: Invited Talk 1: Kevin Clark, VOLPE (US DOT Perspective)
+• 12:30 – 1:00 PM: Invited Talk 2: Evan Kodra, ICE (Climate Adaptation/Risks)
+• 1:00 – 1:30 PM: Invited Talk 3: Daniel Aldrich, Northeastern (Social Capital)
+1:30 – 2:30 PM: Lunch Break
 
-<span style="color:blue">**SERDP Symposium**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/embed/_I4a2t24_88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<span style="color:blue">**SERDP 2020-Symposium: Project NICE by Auroop Ganguly**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/embed/BRsifIgUdHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<span style="color:blue">**NSF ScienceLives interview:**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/embed/qd_Nmv1v1OE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Related Presentations:
-
-<span style="color:blue">**Keynotes: The National Academy**</span>
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/318854857" width="350" height="198" frameborder="0" allowfullscreen></iframe>
-
-
-<span style="color:blue">**Convergent Research to Industry Startups by SDS Lab PI Auroop Ganguly and risQ CEO (and SDS Lab PhD alumnus) Evan Kodra**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/embed/Eq4JDHhVno4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<span style="color:blue">**SDS Lab Research Overview: Invited Talk at IIT Gandhinagar by Auroop Ganguly:**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/embed/Xzd8mzL8vKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<span style="color:blue">**SDS Lab Climate Research Introduction:**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/embed/_QwVCpKyy2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<span style="color:blue">**SDS Lab Resilience Research Introduction:**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/embed/DdHSYUOZgto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<!-- <span style="color:blue">**Journal Repositories (check supplemental information):**</span> 
-* [Extreme Value Theory in Nature Climate Change](https://www.nature.com/articles/nclimate1327?proof=t)
-* [Climate and Coastal Upwelling in Nature](https://www.nature.com/articles/nature14235#journal-info)
-* [Water Stress under Population and Climate in Computers & Geosciences](https://www.sciencedirect.com/science/article/pii/S0098300412000210) -->
-
+Day 3: Thursday, November 3 (Project Planning)
+• 2:30 – 4:00 PM: SERDP Team: Working Discussions on SERDP NICE Next Steps
+4:00 – 5:00 PM: Mixer
+5:00 PM: Adjourn Day 3 and Conclude Workshop
  
   
   
