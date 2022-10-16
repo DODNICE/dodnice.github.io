@@ -15,7 +15,7 @@ Venue: Northeastern University, Boston, MA (all times US Eastern)
 
 <hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
-<span style="color:#4B0082">**Day 1:**</span> Tuesday, November 1 (Session 1: Setting the Stage)
+* <span style="color:#4B0082">**Day 1:**</span> Tuesday, November 1 (Session 1: Setting the Stage)
 Session Chair: Ben Trump, Army Corps
   * 1:00 – 2:00 PM: Igor Linkov, Army Corps (Resilience Paradigm: Techno-social)
   * 2:00 – 3:00 PM: Stephen Flynn, Northeastern (Resilience Paradigm: Policy)
@@ -26,10 +26,10 @@ Session Chair: Ben Trump, Army Corps
 
 * <span style="color:#4B0082">**Day 2:**</span> Wednesday, November 2 (Session 2: SERDP NICE Projects: Part I)
 Session Chair: Sam Chatterjee, PNNL
-* 11:00 – 11:30 AM: Auroop Ganguly, Northeastern (State of the Project)
-* 11:30 – 12:00 PM: Ben Trump, Army Corps (Sociotechnical)
-* 12:00 – 12:30 PM: Marta Gonzalez, Berkeley (Networks)
-12:30 – 1:30 PM: Lunch Break
+  * 11:00 – 11:30 AM: Auroop Ganguly, Northeastern (State of the Project)
+  * 11:30 – 12:00 PM: Ben Trump, Army Corps (Sociotechnical)
+  * 12:00 – 12:30 PM: Marta Gonzalez, Berkeley (Networks)
+  * 12:30 – 1:30 PM: Lunch Break
 
 * <span style="color:#4B0082">**Day 2:**</span> Wednesday, November 2 (Session 3: SERDP NICE Projects: Part II)
 Session Chair: Marta Gonzalez, Berkeley
