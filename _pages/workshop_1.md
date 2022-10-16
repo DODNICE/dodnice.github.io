@@ -1,9 +1,9 @@
 ---
-title: "DOD NICE - Publications"
+title: "DOD NICE - workshop_1"
 layout: gridlay
-excerpt: "SDS Lab -- Publications."
+excerpt: "SDS Lab -- workshop_1"
 sitemap: false
-permalink: /publications/
+permalink: /workshop_1/
 ---
 <!-- 
 Jump to [US Patents](#us-patents) to see our Patents. -->
