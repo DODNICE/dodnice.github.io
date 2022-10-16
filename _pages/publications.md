@@ -13,6 +13,8 @@ Jump to [US Patents](#us-patents) to see our Patents. -->
 SERDP-NICE 2022 Hybrid Workshop Agenda (DRAFT)
 Venue: Northeastern University, Boston, MA (all times US Eastern)
 
+<hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
+
 <span style="color:#4B0082">**Day 1:**</span> Tuesday, November 1 (Session 1: Setting the Stage)
 Session Chair: Ben Trump, Army Corps
   * 1:00 – 2:00 PM: Igor Linkov, Army Corps (Resilience Paradigm: Techno-social)
@@ -55,17 +57,5 @@ Session Chair: Steve Flynn, Northeastern
   * 2:30 – 4:00 PM: SERDP Team: Working Discussions on SERDP NICE Next Steps
   * 4:00 – 5:00 PM: Mixer
   * 5:00 PM: Adjourn Day 3 and Conclude Workshop
-
-<hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
-
-
-<!-- * Item 1
-* Item 2
-  * Item 2a #800020
-  * Item 2b -->
-
-<!-- 
-(1) Climate Risk [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-multivariable-climate-forecasting/)  <br />
-(2) Network Resilience [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-recovery-of-networks-from-disruption/) -->
 
 <hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
