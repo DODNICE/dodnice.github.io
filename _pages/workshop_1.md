@@ -17,9 +17,9 @@ Venue: Northeastern University, Boston, MA (all times US Eastern)
 
 * <span style="color:#4B0082">**Day 1:**</span> Tuesday, November 1 (Session 1: Setting the Stage)
 Session Chair: Ben Trump, Army Corps
-  * 1:00 – 2:00 PM: Igor Linkov, Army Corps (Resilience Paradigm: Techno-social)
+  * 1:00 – 2:00 PM: Edmund Russo, Army Corps (Resilience Practice: DOD Installations)
   * 2:00 – 3:00 PM: Stephen Flynn, Northeastern (Resilience Paradigm: Policy)
-  * 3:00 – 4:00 PM: Edmund Russo, Army Corps (Resilience Practice: DOD Installations)
+  * 3:00 – 4:00 PM: Igor Linkov, Army Corps (Resilience Paradigm: Techno-social)
   * 4:00 – 5:00 PM: Susan Wolters & Rumanda Young, Army Corps (Data and Needs)
   * 5:00 PM: Adjourn Day 1
 
