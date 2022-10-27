@@ -8,7 +8,7 @@ permalink: /workshop_1/
 <!-- 
 Jump to [US Patents](#us-patents) to see our Patents. -->
 
-# Workshop 2022
+# SERDP NICE Workshop 2022 (Virtual)
 
 SERDP-NICE 2022 Hybrid Workshop Agenda (DRAFT)
 Venue: Northeastern University, Boston, MA (all times US Eastern)
