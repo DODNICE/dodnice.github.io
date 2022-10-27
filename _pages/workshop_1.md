@@ -10,8 +10,12 @@ Jump to [US Patents](#us-patents) to see our Patents. -->
 
 # SERDP NICE Workshop 2022 (Virtual)
 
-SERDP-NICE 2022 Hybrid Workshop Agenda (DRAFT)
-Venue: Northeastern University, Boston, MA (all times US Eastern)
+SERDP-NICE 2022 Hybrid Workshop Agenda\
+Venue: Northeastern University, Boston, MA (Virtual and all times US Eastern)
+
+<hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
+
+The project titled "Networked Infrastructure under Compound Extremes (NICE)", funded by US DOD's SERDP, was announced by DOD with a brief description [here](https://serdp-estcp.org/projects/details/4fac77f3-2966-49c4-b3b5-a91593cec6a2) and by Northeastern [here](https://coe.northeastern.edu/news/ganguly-to-lead-3m-serdp-grant-for-networked-infrastructures-under-compound-extremes/), and subsequently presented at a SERDP "Virtual Poster" [here](https://www.youtube.com/watch?v=BRsifIgUdHA) and a SERDP-ESTCP Symposium [here](https://www.youtube.com/watch?v=_I4a2t24_88). The first workshop for SERDP NICE is being organized from November 1-3, 2022.
 
 <hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
