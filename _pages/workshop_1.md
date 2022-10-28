@@ -19,6 +19,10 @@ Venue: Northeastern University, Boston, MA (Virtual and all times US Eastern)
 
 <hr style="border: 2px dashed #3202b5; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
+Zoom link for the virtual workshop is here: [Join via Zoom](https://northeastern.zoom.us/j/99258846120)
+
+<hr style="border: 2px dashed #3202b5; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
+
 <!-- <hr style="height:4px;border-width:1;color:gray;background-color:gray"> -->
 
 * <span style="color:#4B0082">**Day 1:**</span> Tuesday, November 1 (Session 1: Setting the Stage)\
@@ -32,7 +36,7 @@ Venue: Northeastern University, Boston, MA (Virtual and all times US Eastern)
 <hr style="border: 1px dashed #2137b0; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
 * <span style="color:#4B0082">**Day 2:**</span> Wednesday, November 2 (Session 2: SERDP NICE Projects: Part I)\
-<span style="color:#b50255">Session Chair:</span> Sam Chatterjee, PNNL
+<span style="color:#b50255">Session Chair:</span> Sam Chatterjee, Pacific Northwest National Laboratory
   * 11:00 – 11:30 AM: Auroop Ganguly, Northeastern University (<span style="color:#0a8f76">The state of the DOD SERDP NICE project at Year 1</span>)
   * 11:30 – 12:00 PM: Ben Trump, United States Army Corps of Engineers
   * 12:00 – 12:30 PM: Marta Gonzalez, University of California, Berkeley
@@ -65,7 +69,7 @@ Venue: Northeastern University, Boston, MA (Virtual and all times US Eastern)
   * 12:00 – 12:30 PM: Invited Talk 1: Invited Talk 1: Udit Bhatia, Indian Institute Of Technology–Gandhinagar
   * 12:30 – 1:00 PM: Invited Talk 2: Invited Talk 2: John Rowe, risQ/Intercontinental Exchange Inc
   * 1:00 – 1:30 PM: Invited Talk 3: Invited Talk 3: Daniel Aldrich, Northeastern University (<span style="color:#0a8f76">Social Capital's Critical Role in Disaster Mitigation and Recovery</span>)
-1:30 – 2:30 PM: Lunch Break
+  * 1:30 – 2:30 PM: Lunch Break
 
 <hr style="border: 1px dashed #2137b0; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
