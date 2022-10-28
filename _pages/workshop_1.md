@@ -21,7 +21,7 @@ Venue: Northeastern University, Boston, MA (Virtual and all times US Eastern)
 
 Zoom link for the virtual workshop is here: [Join via Zoom](https://northeastern.zoom.us/j/99258846120)
 
-Calendar Invite: [Day 1]({{ site.baseurl }}/downloads/Invite_Day_1.ics) || [Day 2]({{ site.baseurl }}/downloads/Invite_Day_2.ics) || [Day 3]({{ site.baseurl }}/downloads/Invite_Day_3.ics)
+Calendar Invite: [Day 1]({{ site.baseurl }}/downloads/Invite_Day_1.ics) &#124;&#124; [Day 2]({{ site.baseurl }}/downloads/Invite_Day_2.ics) &#124;&#124; [Day 3]({{ site.baseurl }}/downloads/Invite_Day_3.ics)
 
 <hr style="border: 2px dashed #3202b5; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
