@@ -24,6 +24,7 @@ Zoom link for the virtual workshop is here: [Join via Zoom](https://northeastern
 <hr style="border: 2px dashed #3202b5; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
 <!-- <hr style="height:4px;border-width:1;color:gray;background-color:gray"> -->
+<center>Virtual Agenda</center>
 
 * <span style="color:#4B0082">**Day 1:**</span> Tuesday, November 1 (Session 1: Setting the Stage)\
 <span style="color:#b50255">Session Chair:</span> Ben Trump, United States Army Corps of Engineers
