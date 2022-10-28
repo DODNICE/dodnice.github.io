@@ -50,7 +50,7 @@ Calendar Invite: [Day 1]({{ site.baseurl }}/downloads/Invite_Day_1.ics) &#124;&#
 * <span style="color:#4B0082">**Day 2:**</span> Wednesday, November 2 (Session 3: SERDP NICE Projects: Part II)\
 <span style="color:#b50255">Session Chair:</span> Marta Gonzalez, University of California, Berkeley
   * 1:30 – 2:00 PM: Sam Chatterjee, Pacific Northwest National Laboratory (<span style="color:#0a8f76">Quantifying interdependent infrastructure network resilience</span>)
-  * 2:00 – 2:30 PM: Narmadha Meenu Mohankumar/Robert Brigantic, Pacific Northwest National Laboratory (<span style="color:#0a8f76">National DoD installations and potential system failures</span>)
+  * 2:00 – 2:30 PM: Narmadha Meenu Mohankumar/Robert Brigantic, Pacific Northwest National Laboratory (<span style="color:#0a8f76">Notional DoD installations and potential system failures</span>)
   * 2:30 – 3:00 PM: Satish Chikkagoudar, United States Naval Research Laboratory
   * 3:00 – 3:30 PM: Break and Mixer
 
@@ -60,7 +60,7 @@ Calendar Invite: [Day 1]({{ site.baseurl }}/downloads/Invite_Day_1.ics) &#124;&#
 <span style="color:#b50255">Session Chair:</span> Auroop Ganguly, Northeastern University
   * 3:30 – 4:00 PM: Alexandre Tartakovsky, University of Illinois Urbana-Champaign
   * 4:00 – 4:30 PM: Mahantesh Halappanavar, Pacific Northwest National Laboratory (<span style="color:#0a8f76">Graph analytics in the accelerator-enabled exascale era</span>)
-  * 4:30 – 5:00 PM: Himangshu Das, United States Army Corps of Engineers
+  * 4:30 – 5:00 PM: Himangshu Das, United States Army Corps of Engineers (<span style="color:#0a8f76">A Case Study to Enhance Flood Protection and Resiliency: Overview of Coastal Texas Mega Project</span>)
   * 5:00 PM: Adjourn Day 2
 
 <hr style="border: 1px dashed #2137b0; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
@@ -68,7 +68,7 @@ Calendar Invite: [Day 1]({{ site.baseurl }}/downloads/Invite_Day_1.ics) &#124;&#
 * <span style="color:#4B0082">**Day 3:**</span> Thursday, November 3 (Session 5: External Perspectives)\
 <span style="color:#b50255">Session Chair:</span> Steve Flynn, Northeastern University
   * 11:00 – 12:00 PM: Keynote Talk 1: Dan Eisenberg, Naval Postgraduate School (SERDP Project Lessons)
-  * 12:00 – 12:30 PM: Invited Talk 1: Invited Talk 1: Udit Bhatia, Indian Institute Of Technology–Gandhinagar
+  * 12:00 – 12:30 PM: Invited Talk 1: Invited Talk 1: Udit Bhatia, Indian Institute Of Technology–Gandhinagar (<span style="color:#0a8f76">Early Indicators of sudden collapse in infrastructure networks subject to concurrent  extremes: Integrating data, physics, and complexity</span>)
   * 12:30 – 1:00 PM: Invited Talk 2: Invited Talk 2: John Rowe, risQ/Intercontinental Exchange Inc
   * 1:00 – 1:30 PM: Invited Talk 3: Invited Talk 3: Daniel Aldrich, Northeastern University (<span style="color:#0a8f76">Social Capital's Critical Role in Disaster Mitigation and Recovery</span>)
   * 1:30 – 2:30 PM: Lunch Break
