@@ -30,7 +30,7 @@ Calendar Invite: [Day 1]({{ site.baseurl }}/downloads/Invite_Day_1.ics) &#124;&#
 * <span style="color:#4B0082">**Day 1:**</span> Tuesday, November 1 (Session 1: Setting the Stage)\
 <span style="color:#b50255">Session Chair:</span> Ben Trump, United States Army Corps of Engineers
   * 1:00 – 2:00 PM: Edmund Russo, United States Army Corps of Engineers
-  * 2:00 – 3:00 PM: Stephen Flynn, Northeastern University 
+  * 2:00 – 3:00 PM: Stephen Flynn, Northeastern University (<span style="color:#0a8f76">Countering Emerging Threats and Hazards to Critical Infrastructure: The Resilience Imperative</span>)
   * 3:00 – 4:00 PM: Igor Linkov, United States Army Corps of Engineers
   * 4:00 – 5:00 PM: Susan Wolters & Rumanda Young, United States Army Corps of Engineers
   * 5:00 PM: Adjourn Day 1
