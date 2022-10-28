@@ -15,9 +15,9 @@ Venue: Northeastern University, Boston, MA (Virtual and all times US Eastern)
 
 <hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
-The project titled "Networked Infrastructure under Compound Extremes (NICE)", funded by US DOD's SERDP, was announced by DOD with a brief description [here](https://serdp-estcp.org/projects/details/4fac77f3-2966-49c4-b3b5-a91593cec6a2) and by Northeastern [here](https://coe.northeastern.edu/news/ganguly-to-lead-3m-serdp-grant-for-networked-infrastructures-under-compound-extremes/), and subsequently presented at a SERDP "Virtual Poster" [here](https://www.youtube.com/watch?v=BRsifIgUdHA) and a SERDP-ESTCP Symposium [here](https://www.youtube.com/watch?v=_I4a2t24_88). The first workshop for SERDP NICE is being organized from November 1-3, 2022.
+<span style="color:#3202b5">**About SERDP NICE:**</span> The project titled "Networked Infrastructure under Compound Extremes (NICE)", funded by US DOD's SERDP, was announced by DOD with a brief description [here](https://serdp-estcp.org/projects/details/4fac77f3-2966-49c4-b3b5-a91593cec6a2) and by Northeastern [here](https://coe.northeastern.edu/news/ganguly-to-lead-3m-serdp-grant-for-networked-infrastructures-under-compound-extremes/), and subsequently presented at a SERDP "Virtual Poster" [here](https://www.youtube.com/watch?v=BRsifIgUdHA) and a SERDP-ESTCP Symposium [here](https://www.youtube.com/watch?v=_I4a2t24_88). The first workshop for SERDP NICE is being organized from November 1-3, 2022.
 
-<hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
+<hr style="border: 3px dashed #05eded; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
 * <span style="color:#4B0082">**Day 1:**</span> Tuesday, November 1 (Session 1: Setting the Stage)
 Session Chair: Ben Trump, Army Corps
