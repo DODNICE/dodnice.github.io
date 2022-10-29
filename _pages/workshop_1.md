@@ -41,7 +41,7 @@ Calendar Invite: [Day 1]({{ site.baseurl }}/downloads/Invite_Day_1.ics) &#124;&#
 <span style="color:#b50255">Session Chair:</span> Sam Chatterjee, Pacific Northwest National Laboratory
   * 11:00 – 11:30 AM: Auroop Ganguly, Northeastern University (<span style="color:#0a8f76">The state of the DOD SERDP NICE project at Year 1</span>)
   * 11:30 – 12:00 PM: Ben Trump, United States Army Corps of Engineers (<span style="color:#0a8f76">Compound Threats, Resilience, Methods, and Governance</span>)
-  * 12:00 – 12:30 PM: Marta Gonzalez, University of California, Berkeley
+  * 12:00 – 12:30 PM: Marta Gonzalez, University of California, Berkeley (<span style="color:#0a8f76">An interdisciplinary  approach to managing natural hazards risk</span>)
   * 12:30 – 1:30 PM: Lunch Break
 
 
