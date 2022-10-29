@@ -31,7 +31,7 @@ Calendar Invite: [Day 1]({{ site.baseurl }}/downloads/Invite_Day_1.ics) &#124;&#
 <span style="color:#b50255">Session Chair:</span> Ben Trump, United States Army Corps of Engineers
   * 1:00 – 2:00 PM: Edmund Russo, United States Army Corps of Engineers
   * 2:00 – 3:00 PM: Stephen Flynn, Northeastern University (<span style="color:#0a8f76">Countering Emerging Threats and Hazards to Critical Infrastructure: The Resilience Imperative</span>)
-  * 3:00 – 4:00 PM: Igor Linkov, United States Army Corps of Engineers
+  * 3:00 – 4:00 PM: Igor Linkov, United States Army Corps of Engineers (<span style="color:#0a8f76">Resilience and Efficiency Tradeoffs in Complex Systems</span>)
   * 4:00 – 5:00 PM: Susan Wolters & Rumanda Young, United States Army Corps of Engineers
   * 5:00 PM: Adjourn Day 1
 
@@ -40,7 +40,7 @@ Calendar Invite: [Day 1]({{ site.baseurl }}/downloads/Invite_Day_1.ics) &#124;&#
 * <span style="color:#4B0082">**Day 2:**</span> Wednesday, November 2 (Session 2: SERDP NICE Projects: Part I)\
 <span style="color:#b50255">Session Chair:</span> Sam Chatterjee, Pacific Northwest National Laboratory
   * 11:00 – 11:30 AM: Auroop Ganguly, Northeastern University (<span style="color:#0a8f76">The state of the DOD SERDP NICE project at Year 1</span>)
-  * 11:30 – 12:00 PM: Ben Trump, United States Army Corps of Engineers
+  * 11:30 – 12:00 PM: Ben Trump, United States Army Corps of Engineers (<span style="color:#0a8f76">Compound Threats, Resilience, Methods, and Governance</span>)
   * 12:00 – 12:30 PM: Marta Gonzalez, University of California, Berkeley
   * 12:30 – 1:30 PM: Lunch Break
 
