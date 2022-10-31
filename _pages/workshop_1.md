@@ -59,7 +59,8 @@ Calendar Invite: [Day 1]({{ site.baseurl }}/downloads/Invite_Day_1.ics) &#124;&#
 <span style="color:#0a8f76">**(Quantifying interdependent infrastructure network resilience)**</span>
   * 2:00 – 2:30 PM: Narmadha Meenu Mohankumar/Robert Brigantic, Pacific Northwest National Laboratory \
 <span style="color:#0a8f76">**(Notional DoD installations and potential system failures)**</span>
-  * 2:30 – 3:00 PM: Satish Chikkagoudar, United States Naval Research Laboratory
+  * 2:30 – 3:00 PM: Satish Chikkagoudar, United States Naval Research Laboratory\
+<span style="color:#0a8f76">**(Assurance by design for cyber-physical data-driven systems)**</span>
   * 3:00 – 3:30 PM: Break and Mixer
 
 <hr style="border: 1px dashed #2137b0; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
@@ -82,7 +83,8 @@ Calendar Invite: [Day 1]({{ site.baseurl }}/downloads/Invite_Day_1.ics) &#124;&#
 <span style="color:#0a8f76">**(Infrastructure Vulnerability and Resilience Inside and Outside the Fence Line)**</span>
   * 12:00 – 12:30 PM: Invited Talk 1: Invited Talk 1: Udit Bhatia, Indian Institute Of Technology–Gandhinagar \
 <span style="color:#0a8f76">**(Early Indicators of sudden collapse in infrastructure networks subject to concurrent  extremes: Integrating data, physics, and complexity)**</span>
-  * 12:30 – 1:00 PM: Invited Talk 2: Invited Talk 2: John Rowe, risQ/Intercontinental Exchange Inc
+  * 12:30 – 1:00 PM: Invited Talk 2: Invited Talk 2: John Rowe, risQ/Intercontinental Exchange Inc\
+<span style="color:#0a8f76">**(Incentivizing urban climate resilience through the muni bond market)**</span>
   * 1:00 – 1:30 PM: Invited Talk 3: Invited Talk 3: Daniel Aldrich, Northeastern University \
 <span style="color:#0a8f76">**(Social Capital's Critical Role in Disaster Mitigation and Recovery)**</span>
   * 1:30 – 2:30 PM: Lunch Break
