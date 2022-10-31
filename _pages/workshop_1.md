@@ -29,7 +29,8 @@ Calendar Invite: [Day 1]({{ site.baseurl }}/downloads/Invite_Day_1.ics) &#124;&#
 
 * <span style="color:#4B0082">**Day 1:**</span> Tuesday, November 1 (Session 1: Setting the Stage)\
 <span style="color:#b50255">Session Chair:</span> Ben Trump, United States Army Corps of Engineers
-  * 1:00 – 2:00 PM: Edmund Russo, United States Army Corps of Engineers
+  * 1:00 – 2:00 PM: Edmund Russo, United States Army Corps of Engineers\
+<span style="color:#0a8f76">**(Addressing Compound Threats: Army Installations Strategy as an Enabler to Army Modernization and Multi-Domain Operations)**</span>
   * 2:00 – 3:00 PM: Stephen Flynn, Northeastern University\
 <span style="color:#0a8f76">**(Countering Emerging Threats and Hazards to Critical Infrastructure: The Resilience Imperative)**</span>
   * 3:00 – 4:00 PM: Igor Linkov, United States Army Corps of Engineers \
@@ -77,7 +78,8 @@ Calendar Invite: [Day 1]({{ site.baseurl }}/downloads/Invite_Day_1.ics) &#124;&#
 
 * <span style="color:#4B0082">**Day 3:**</span> Thursday, November 3 (Session 5: External Perspectives)\
 <span style="color:#b50255">Session Chair:</span> Steve Flynn, Northeastern University
-  * 11:00 – 12:00 PM: Keynote Talk 1: Dan Eisenberg, Naval Postgraduate School (SERDP Project Lessons)
+  * 11:00 – 12:00 PM: Keynote Talk 1: Dan Eisenberg, Naval Postgraduate School (SERDP Project Lessons)\
+<span style="color:#0a8f76">**(Infrastructure Vulnerability and Resilience Inside and Outside the Fence Line)**</span>
   * 12:00 – 12:30 PM: Invited Talk 1: Invited Talk 1: Udit Bhatia, Indian Institute Of Technology–Gandhinagar \
 <span style="color:#0a8f76">**(Early Indicators of sudden collapse in infrastructure networks subject to concurrent  extremes: Integrating data, physics, and complexity)**</span>
   * 12:30 – 1:00 PM: Invited Talk 2: Invited Talk 2: John Rowe, risQ/Intercontinental Exchange Inc
