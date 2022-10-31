@@ -35,8 +35,8 @@ Calendar Invite: [Day 1]({{ site.baseurl }}/downloads/Invite_Day_1.ics) &#124;&#
 <span style="color:#0a8f76">**(Countering Emerging Threats and Hazards to Critical Infrastructure: The Resilience Imperative)**</span>
   * 3:00 – 4:00 PM: Igor Linkov, United States Army Corps of Engineers \
 <span style="color:#0a8f76">**(Resilience and Efficiency Tradeoffs in Complex Systems)**</span>
-  * 4:00 – 5:00 PM: Susan Wolters & Rumanda Young, United States Army Corps of Engineers
-  * 5:00 PM: Adjourn Day 1
+<!--   * 4:00 – 5:00 PM: Susan Wolters & Rumanda Young, United States Army Corps of Engineers -->
+  * 4:00 PM: Adjourn Day 1
 
 <hr style="border: 1px dashed #2137b0; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
