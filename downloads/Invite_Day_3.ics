@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REPLY
+BEGIN:VEVENT
+DTSTART:20221103T150000Z
+DTEND:20221103T210000Z
+DTSTAMP:20221101T175450Z
+ORGANIZER;CN=Ashis Kumar Pal:mailto:pal.as@northeastern.edu
+UID:040000008200E00074C5B7101A82E00800000000BD28AEB173EAD801000000000000000
+ 010000000421D7230BDA5D941942D95FF37C7D989
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=ACCEPTED;CN=auroop
+ @gmail.com;X-NUM-GUESTS=0:mailto:auroop@gmail.com
+CREATED:20221101T174710Z
+DESCRIPTION:Topic: SERDP NICE Workshop: 2022\nTime: This is a recurring mee
+ ting Meet anytime\n\nJoin Zoom Meeting\nhttps://northeastern.zoom.us/j/9925
+ 8846120\n\nMeeting ID: 992 5884 6120\nOne tap mobile\n+13017158592\,\,99258
+ 846120# US (Washington DC)\n+13092053325\,\,99258846120# US\n\nDial by your
+  location\n        +1 301 715 8592 US (Washington DC)\n        +1 309 205 3
+ 325 US\n        +1 312 626 6799 US (Chicago)\n        +1 646 931 3860 US\n 
+        +1 929 205 6099 US (New York)\n        +1 253 215 8782 US (Tacoma)\n
+         +1 346 248 7799 US (Houston)\n        +1 360 209 5623 US\n        +
+ 1 386 347 5053 US\n        +1 507 473 4847 US\n        +1 564 217 2000 US\n
+         +1 669 444 9171 US\n        +1 669 900 6833 US (San Jose)\n        
+ +1 689 278 1000 US\n        +1 719 359 4580 US\nMeeting ID: 992 5884 6120\n
+ Find your local number: https://northeastern.zoom.us/u/aerSNjUBWT\n\nJoin b
+ y Skype for Business\nhttps://northeastern.zoom.us/skype/99258846120\n\n\n\
+ n\n
+LAST-MODIFIED:20221101T175446Z
+LOCATION:https://northeastern.zoom.us/j/99258846120
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:SERDP NICE Workshop: 2022 ( Day 3)
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-APPT-SEQUENCE:2
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:2120932797
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://northeastern.zoom.us/j/99258846120
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"https://northeastern.zoom.us/j/99258
+ 846120"\,"LocationAnnotation":""\,"LocationUri":""\,"LocationStreet":""\,"L
+ ocationCity":""\,"LocationState":""\,"LocationCountry":""\,"LocationPostalC
+ ode":""\,"LocationFullAddress":""}]
+X-MICROSOFT-LOCATIONSOURCE:None
+END:VEVENT
+END:VCALENDAR
