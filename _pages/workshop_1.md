@@ -23,6 +23,8 @@ Zoom link for the virtual workshop is here: [Join via Zoom](https://northeastern
 
 Calendar Invite: [Day 1]({{ site.baseurl }}/downloads/Invite_Day_1.ics) &#124;&#124; [Day 2]({{ site.baseurl }}/downloads/Invite_Day_2.ics) &#124;&#124; [Day 3]({{ site.baseurl }}/downloads/Invite_Day_3.ics)
 
+Download the Booklet here: [Workshop Booklet]({{ site.baseurl }}/downloads/SERDP_NICE_W'22_Booklet.pdf)
+
 <hr style="border: 2px dashed #3202b5; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
 <!-- <hr style="height:4px;border-width:1;color:gray;background-color:gray"> -->
