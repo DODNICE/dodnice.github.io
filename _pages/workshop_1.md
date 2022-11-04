@@ -72,7 +72,7 @@ Download the Booklet here: [Workshop Booklet]({{ site.baseurl }}/downloads/SERDP
   * 3:30 – 4:00 PM: Alexandre Tartakovsky, University of Illinois Urbana-Champaign \
 <span style="color:#0a8f76">**(Physics-informed Gaussian process regression model for parameter estimation in groundwater models)**</span>
   * 4:00 – 4:30 PM: Mahantesh Halappanavar, Pacific Northwest National Laboratory \
-<span style="color:#0a8f76">**(Graph analytics in the accelerator-enabled exascale era)**</span> [Slides]({{ site.baseurl }}/downloads/Halappanavar.pdf)
+<span style="color:#0a8f76">**(Graph analytics in the accelerator-enabled exascale era)**</span> &#124;&#124; [Slides]({{ site.baseurl }}/downloads/Halappanavar.pdf)
   * 4:30 – 5:00 PM: Himangshu Das, United States Army Corps of Engineers \
 <span style="color:#0a8f76">**(A Case Study to Enhance Flood Protection and Resiliency: Overview of Coastal Texas Mega Project)**</span>
   * 5:00 PM: Adjourn Day 2
