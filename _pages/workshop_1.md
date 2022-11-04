@@ -34,7 +34,7 @@ Download the Booklet here: [Workshop Booklet]({{ site.baseurl }}/downloads/SERDP
   * 1:00 – 2:00 PM: Edmund Russo, United States Army Corps of Engineers\
 <span style="color:#0a8f76">**(Addressing Compound Threats: Army Installations Strategy as an Enabler to Army Modernization and Multi-Domain Operations)**</span> &#124;&#124; [Slides]({{ site.baseurl }}/downloads/Russo.pdf) &#124;&#124;
   * 2:00 – 3:00 PM: Stephen Flynn, Northeastern University\
-<span style="color:#0a8f76">**(Countering Emerging Threats and Hazards to Critical Infrastructure: The Resilience Imperative)**</span>
+<span style="color:#0a8f76">**(Countering Emerging Threats and Hazards to Critical Infrastructure: The Resilience Imperative)**</span> &#124;&#124; [Slides]({{ site.baseurl }}/downloads/S_Flynn.pdf) &#124;&#124;
   * 3:00 – 4:00 PM: Igor Linkov, United States Army Corps of Engineers \
 <span style="color:#0a8f76">**(Resilience and Efficiency Tradeoffs in Complex Systems)**</span>
   * 4:00 PM: Adjourn Day 1
@@ -57,7 +57,7 @@ Download the Booklet here: [Workshop Booklet]({{ site.baseurl }}/downloads/SERDP
 * <span style="color:#4B0082">**Day 2:**</span> Wednesday, November 2 (Session 3: SERDP NICE Projects: Part II)\
 <span style="color:#b50255">Session Chair:</span> Marta Gonzalez, University of California, Berkeley
   * 1:30 – 2:00 PM: Sam Chatterjee, Pacific Northwest National Laboratory \
-<span style="color:#0a8f76">**(Quantifying interdependent infrastructure network resilience)**</span>
+<span style="color:#0a8f76">**(Quantifying interdependent infrastructure network resilience)**</span> &#124;&#124; [Slides]({{ site.baseurl }}/downloads/Sam.pdf) &#124;&#124;
   * 2:00 – 2:30 PM: Narmadha Meenu Mohankumar/Robert Brigantic, Pacific Northwest National Laboratory \
 <span style="color:#0a8f76">**(Notional DoD installations and potential system failures)**</span>
   * 2:30 – 3:00 PM: Satish Chikkagoudar, United States Naval Research Laboratory\
