@@ -48,7 +48,7 @@ Download the Booklet here: [Workshop Booklet]({{ site.baseurl }}/downloads/SERDP
   * 11:30 – 12:00 PM: Ben Trump, United States Army Corps of Engineers \
 <span style="color:#0a8f76">**(Compound Threats, Resilience, Methods, and Governance)**</span>
   * 12:00 – 12:30 PM: Marta Gonzalez, University of California, Berkeley \
-<span style="color:#0a8f76">**(An interdisciplinary  approach to managing natural hazards risk)**</span>)
+<span style="color:#0a8f76">**(An interdisciplinary  approach to managing natural hazards risk)**</span>) &#124;&#124; [Slides]({{ site.baseurl }}/downloads/Marta.pdf) &#124;&#124;
   * 12:30 – 1:30 PM: Lunch Break
 
 
@@ -87,7 +87,7 @@ Download the Booklet here: [Workshop Booklet]({{ site.baseurl }}/downloads/SERDP
   * 12:30 – 1:00 PM: Invited Talk 2: Invited Talk 2: John Rowe, risQ/Intercontinental Exchange Inc\
 <span style="color:#0a8f76">**(Incentivizing urban climate resilience through the muni bond market)**</span> &#124;&#124; [Slides]({{ site.baseurl }}/downloads/John.pdf) &#124;&#124;
   * 1:00 – 1:30 PM: Invited Talk 3: Invited Talk 3: Daniel Aldrich, Northeastern University \
-<span style="color:#0a8f76">**(Social Capital's Critical Role in Disaster Mitigation and Recovery)**</span>
+<span style="color:#0a8f76">**(Social Capital's Critical Role in Disaster Mitigation and Recovery)**</span> &#124;&#124; [Slides]({{ site.baseurl }}/downloads/Aldrich.pdf) &#124;&#124;
   * 1:30 – 2:30 PM: Lunch Break
 
 <hr style="border: 1px dashed #2137b0; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
