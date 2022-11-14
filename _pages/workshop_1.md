@@ -36,7 +36,7 @@ Download the Booklet here: [Workshop Booklet]({{ site.baseurl }}/downloads/SERDP
   * 2:00 – 3:00 PM: Stephen Flynn, Northeastern University\
 <span style="color:#0a8f76">**(Countering Emerging Threats and Hazards to Critical Infrastructure: The Resilience Imperative)**</span> &#124;&#124; [Slides]({{ site.baseurl }}/downloads/S_Flynn.pdf) &#124;&#124;
   * 3:00 – 4:00 PM: Igor Linkov, United States Army Corps of Engineers \
-<span style="color:#0a8f76">**(Resilience and Efficiency Tradeoffs in Complex Systems)**</span> &#124;&#124; [Slides]({{ site.baseurl }}/downloads/S_Flynn.pdf) &#124;&#124; [Presentation on Youyube](https://youtu.be/fXVjK-M75OE) &#124;&#124;
+<span style="color:#0a8f76">**(Resilience and Efficiency Tradeoffs in Complex Systems)**</span> &#124;&#124; [Slides]({{ site.baseurl }}/downloads/Igor.pdf) &#124;&#124; [Presentation on Youyube](https://youtu.be/fXVjK-M75OE) &#124;&#124;
   * 4:00 PM: Adjourn Day 1
 
 <hr style="border: 1px dashed #2137b0; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
