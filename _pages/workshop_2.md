@@ -8,11 +8,13 @@ permalink: /workshop_2/
 <!-- 
 Jump to [US Patents](#us-patents) to see our Patents. -->
 
-# Workshop 2023
+# SERDP NICE Workshop 2024
 
 SERDP-NICE 2022 Hybrid Workshop Agenda (DRAFT)
-Venue: Northeastern University, Boston, MA (all times US Eastern)
+Venue: 333 Curry Students Center, Northeastern University, Boston, MA (all times US Eastern)
+Date: April 25-26, 2024.
 
+This is just placeholder. Will be updated as soon as the agenda is finalized. 
 <hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
 * <span style="color:#4B0082">**Day 1:**</span> Tuesday, November 1 (Session 1: Setting the Stage)
