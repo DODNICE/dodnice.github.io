@@ -10,7 +10,7 @@ Jump to [US Patents](#us-patents) to see our Patents. -->
 
 # SERDP NICE Workshop 2024
 
-Venue: 333 Curry Students Center, Northeastern University, Boston, MA (all times US Eastern)
+Venue: 333 Curry Students Center, Northeastern University, Boston, MA (all times US Eastern) \\
 Date: April 25-26, 2024.
 
 Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/Workshop_Flyer.pdf)
