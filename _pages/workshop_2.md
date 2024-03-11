@@ -13,6 +13,8 @@ Jump to [US Patents](#us-patents) to see our Patents. -->
 Venue: 333 Curry Students Center, Northeastern University, Boston, MA (all times US Eastern)
 Date: April 25-26, 2024.
 
+Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/SERDP_NICE_W'22_Booklet.pdf)
+
 This is just placeholder. Will be updated as soon as the agenda is finalized. 
 <hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
