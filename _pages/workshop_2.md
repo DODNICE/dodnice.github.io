@@ -8,57 +8,86 @@ permalink: /workshop_2/
 <!-- 
 Jump to [US Patents](#us-patents) to see our Patents. -->
 
-# SERDP NICE Workshop 2024
+# 2024 DoD SERDP NICE Project Workshop
 
-Venue: 333 Curry Students Center, Northeastern University, Boston, MA (all times US Eastern) \\
-Date: April 25-26, 2024.
+**Strategic Environmental Research and Development Program (SERDP)**  
+**Networked Infrastructures under Compound Extremes (NICE)**
+
+**Venue:** Northeastern University, Boston, MA (All times US EST)  
+**Location:** 333 Curry Center - Senate Chambers
 
 Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/Workshop_Flyer.pdf)
 
-This is just placeholder. Will be updated as soon as the agenda is finalized. 
 <hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
-* <span style="color:#4B0082">**Day 1:**</span> Tuesday, November 1 (Session 1: Setting the Stage)
-Session Chair: Ben Trump, Army Corps
-  * 1:00 – 2:00 PM: Igor Linkov, Army Corps (Resilience Paradigm: Techno-social)
-  * 2:00 – 3:00 PM: Stephen Flynn, Northeastern (Resilience Paradigm: Policy)
-  * 3:00 – 4:00 PM: Edmund Russo, Army Corps (Resilience Practice: DOD Installations)
-  * 4:00 – 5:00 PM: Susan Wolters & Rumanda Young, Army Corps (Data and Needs)
-  * 5:00 PM: Adjourn Day 1
+## Day One: NICE - Thursday, April 25, 2024
 
+- **0830–0900** Continental Breakfast - Outside Room: 333 Curry Center
 
-* <span style="color:#4B0082">**Day 2:**</span> Wednesday, November 2 (Session 2: SERDP NICE Projects: Part I)
-Session Chair: Sam Chatterjee, PNNL
-  * 11:00 – 11:30 AM: Auroop Ganguly, Northeastern (State of the Project)
-  * 11:30 – 12:00 PM: Ben Trump, Army Corps (Sociotechnical)
-  * 12:00 – 12:30 PM: Marta Gonzalez, Berkeley (Networks)
-  * 12:30 – 1:30 PM: Lunch Break
+- **0900–0905** Welcome and Introductions  
+  Opening Comments: Dr. Auroop Ganguly – SERDP NICE PI
 
-* <span style="color:#4B0082">**Day 2:**</span> Wednesday, November 2 (Session 3: SERDP NICE Projects: Part II)
-Session Chair: Marta Gonzalez, Berkeley
-  * 1:30 – 2:00 PM: Sam Chatterjee, PNNL (Graphs)
-  * 2:00 – 2:30 PM: Robert Brigantic, PNNL (DOD Data)
-  * 2:30 – 3:00 PM: Satish Chikkagoudar, NRL (Cyber)
-  * 3:00 – 3:30 PM: Break and Mixer
-  
-* <span style="color:#4B0082">**Day 2:**</span> Wednesday, November 2 (Session 4: SERDP NICE Futures)
-Session Chair: Auroop Ganguly, Northeastern
-  * 3:30 – 4:00 PM: Alexandre Tartakovsky, Urbana (Physics-ML)
-  * 4:00 – 4:30 PM: Mahantesh Halappanavar, PNNL (HPC-Networks)
-  * 4:30 – 5:00 PM: Himangshu Das, Army Corps (Flood Resilience)
-  * 5:00 PM: Adjourn Day 2
+- **0905-1000** Session 0: The State of the NICE Project  
+  Speakers: Dr. Auroop Ganguly, Dr. Sam Chatterjee, Dr. Marta Gonzalez, Dr. Ben Trump
 
-* <span style="color:#4B0082">**Day 3:**</span> Thursday, November 3 (Session 5: External Perspectives)
-Session Chair: Steve Flynn, Northeastern
-  * 11:00 – 12:00 PM: Keynote Talk 1: Dan Eisenberg, NPS (SERDP Project Lessons)
-  * 12:00 – 12:30 PM: Invited Talk 1: Kevin Clark, VOLPE (US DOT Perspective)
-  * 12:30 – 1:00 PM: Invited Talk 2: Evan Kodra, ICE (Climate Adaptation/Risks)
-  * 1:00 – 1:30 PM: Invited Talk 3: Daniel Aldrich, Northeastern (Social Capital)
-1:30 – 2:30 PM: Lunch Break
+- **1000–1015** Coffee Break
 
-* <span style="color:#4B0082">**Day 3:**</span> Thursday, November 3 (Project Planning)
-  * 2:30 – 4:00 PM: SERDP Team: Working Discussions on SERDP NICE Next Steps
-  * 4:00 – 5:00 PM: Mixer
-  * 5:00 PM: Adjourn Day 3 and Conclude Workshop
+- **1015-1115** Session 1: Climate and Compound Extremes  
+  Moderator: Robert Brigantic  
+  Panelists: Dr. Jill Brandenberger, Dr. Steve Flynn, Dr. Subhra Misra, Dr. Ben Trump
+
+- **1115-1215** Session 2: Methods and Theories Needed for Installations  
+  Moderator: Dr. Auroop Ganguly  
+  Participants: Dr. Leonardo Duenas Osoria, Dr. Sam Chatterjee, Dr. Marta Gonzalez, Dr. Jianxi Gao
+
+- **1215–1300** Lunch
+
+- **1300-1400** Session 3: Translations for Mission Readiness  
+  Moderator: Dr. Himangshu Das  
+  Panelists: Dr. Jill Brandenberger, Dr. Craig Poulin, Dr. Satish Chikkagoudar, Jack Watson, PhD Candidate
+
+- **1400-1500** Session 4: Existing Landscape Toolkits
+
+- **1500-1600** Session 5: Integrating with DoD Toolkits and Systems for Informing DoD Installation Resilience  
+  Speaker: Dr. Todd Hay, PNNL
+
+- **1600-1645** Networking
+
+- **1645-1700** Walk to Dinner
+
+- **1700-1830** Dinner  
+  Location: Cabral Center, 40 Leon Street, Boston
+
+## Day Two: NICE Next-Gen - Friday, April 26, 2024
+
+- **0830–0900** Continental Breakfast - Outside Room: 333 Curry Center
+
+- **0900–0930** Session 1: Climate Adaptation  
+  Speaker: Dr. Evan Kodra
+
+- **0930-1015** Session 2: Cyber Security  
+  Speakers: Dr. Kaushik Chowdry and Stratis
+
+- **1015-1035** Session 3: Energy Transitions  
+  Speaker: Dr. Ardeshir Contractor
+
+- **1035-1050** Coffee Break
+
+- **1050–1120** Session 4: Flood Risk Management  
+  Speaker: Dr. Julie Rosati, USACE Lead Civil Works R&D Director
+
+- **1120-1150** Session 5: Speaker TBA  
+  Speaker: Dr. Lina Sela
+
+- **1150-1230** Lunch Break
+
+- **1230-1245** Introduction to Experiential AI Institute  
+  Speakers: Usama & Jennifer
+
+- **1245-1315** Session 6: Connections with other SERDP Projects  
+  Speakers: Dan Eisenberg, Dave Alderson
+
+- **1315-1415** Session 7: Discussions and Next Steps leading to report
+
 
 <hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
