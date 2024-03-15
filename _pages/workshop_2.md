@@ -24,70 +24,73 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
 
 - **08:30 - 09:00** Continental Breakfast - Outside Room: 333 Curry Center
 
-- **09:00 - 09:05** Welcome and Introductions  
+- **09:00 - 09:05** Welcome and Introductions
   Opening Comments: Dr. Auroop Ganguly – SERDP NICE PI
 
-- **09:05 - 10:00** Session 0: The State of the NICE Project  
-  Speakers: Dr. Auroop Ganguly, Dr. Sam Chatterjee, Dr. Marta Gonzalez, Dr. Ben Trump
+- **09:05 - 10:00** State of the NICE Project
+  Speakers: Dr. Auroop Ganguly – Northeastern University, Dr. Sam Chatterjee – Pacific Northwest National Labs, Dr. Marta Gonzalez – University of California – Berkeley, Dr. Ben Trump – US Army Corps of Engineers, Dr. Satish Chikkagoudar – Naval Research Lab
 
 - **10:00 - 10:15** Coffee Break
 
-- **10:15 - 11:15** Session 1: Climate and Compound Extremes  
-  Moderator: Robert Brigantic  
-  Panelists: Dr. Jill Brandenberger, Dr. Steve Flynn, Dr. Subhra Misra, Dr. Ben Trump
+- **10:15 - 11:15** Panel Session 1: Climate and Compound Extremes
+  Moderator: Dr. Ben Trump, Research Social Scientist, US Army Corps of Engineers
+  Participants: Jill Brandenberger, Climate and Environmental Security Program Manager, US Department of Energy’s Pacific Northwest National Labs, Dr. Subhra Misra, Deputy Director Climate Change Adaptation and Planning ODAS-d Office of Secretary of Defense & DoD Climate Action Team – Climate Preparedness and Resilience
 
-- **11:15 - 12:15** Session 2: Methods and Theories Needed for Installations  
-  Moderator: Dr. Auroop Ganguly  
-  Participants: Dr. Leonardo Duenas Osoria, Dr. Sam Chatterjee, Dr. Marta Gonzalez, Dr. Jianxi Gao
+- **11:15 - 12:15** Panel Session 2: Methods and Theories for Installation Resilience
+  Moderator: Dr. Marta Gonzalez, Professor of City and Regional Planning and Physics Research Faculty of Energy Technology at Lawrence Berkeley National Lab, University of California – Berkeley
+  Participants: Dr. Leonardo Duenas Osoria, Professor of Civil and Environmental Engineering, Rice University, Dr. Jianxi Gao, Assistant Professor Computer Science and Center for Network Science and Technology, Rensselaer Polytechnic Institute
 
 - **12:15 - 13:00** Lunch
 
-- **13:00 - 14:00** Session 3: Translations for Mission Readiness  
-  Moderator: Dr. Himangshu Das  
-  Panelists: Dr. Jill Brandenberger, Dr. Craig Poulin, Dr. Satish Chikkagoudar, Jack Watson, PhD Candidate
+- **13:00 - 14:00** Panel Session 3: Translations for Mission Readiness
+  Moderator: Dr. Satish Chikkagoudar, Research Scientist, Center for High Assurance Computer Systems, US Naval Research Laboratory
+  Participants: Dr. Craig Poulin, Lieutenant Colonel US Air Force & Adjunct Assistant Professor of Systems, Air Force Institute of Technology Engineering, Dr. Himangshu Das, Engineer, US Army Corps of Engineers
 
-- **14:00 - 15:00** Session 4: Existing Landscape Toolkits
+- **14:00 - 15:00** Panel Session 4: Synergies with SERDP RC Projects
+  Moderator: Dr. Sam Chatterjee, Senior Data/Operations Research Scientist Team Leader with the Data Sciences and Machine Intelligence Group, US Department of Energy’s Pacific Northwest National Labs
+  Participants: Dr. Dan Eisenberg, Director, Center for Infrastructure Defense, Naval Postgraduate School, Dr. Dave Alderson, Professor, Operations Research Department, Executive Director Center for Infrastructure Defense Naval Postgraduate School
 
-- **15:00 - 16:00** Session 5: Integrating with DoD Toolkits and Systems for Informing DoD Installation Resilience  
-  Speaker: Dr. Todd Hay, PNNL
+- **15:00 - 16:00** Session 5: Integrating with DoD Toolkits
+  Opening Remarks: Dr. Auroop Ganguly
+  Speaker: Dr. Todd Hay, Acting Division Director, Computing and Analytics Division, US Department of Energy’s Pacific Northwest National Labs
 
-- **16:00 - 16:45** Networking
+- **16:00 - 16:45** Networking and (Happy Hour)
 
 - **16:45 - 17:00** Walk to Dinner
 
-- **17:00 - 18:30** Dinner  
+- **17:00 - 18:30** Dinner
   Location: Cabral Center, 40 Leon Street, Boston
 
 ## Day Two: NICE Next-Gen - Friday, April 26, 2024
 
 - **08:30 - 09:00** Continental Breakfast - Outside Room: 333 Curry Center
 
-- **09:00 - 09:30** Session 1: Climate Adaptation  
-  Speaker: Dr. Evan Kodra
+- **09:00 - 09:30** Invited Talk 1: Climate Adaptation
+  Speaker: Dr. Evan Kodra, Senior Director, Climate & ESG, Intercontinental Exchange ICE Data Services
 
-- **09:30 - 10:15** Session 2: Cyber Security  
-  Speakers: Dr. Kaushik Chowdry and Stratis
+- **09:30 - 10:00** Invited Talk 2: Cyber Security
+  Speaker: Dr. Kaushik Chowdhury, Professor, Electrical and Computer Engineering Department, Associate Dean for Research, College of Engineering, Associate Director of the Institute for the Wireless of Internet of Things, Northeastern University
 
-- **10:15 - 10:35** Session 3: Energy Transitions  
-  Speaker: Dr. Ardeshir Contractor
+- **10:00 - 10:20** Invited Talk 3: Energy Transitions
+  Speaker: Dr. Ardeshir Contractor, Director of Strategic Research Projects, IA for Climate and Sustainability, Institute for Experiential AI, Northeastern University
 
-- **10:35 - 10:50** Coffee Break
+- **10:20 - 10:30** Coffee Break
 
-- **10:50 - 11:20** Session 4: Flood Risk Management  
-  Speaker: Dr. Julie Rosati, USACE Lead Civil Works R&D Director
+- **10:30 - 11:00** Invited Talk 4: Flood Risk management
+  Speaker: Dr. Julie Rosati, Lead Civil Works R&D Technical Director; R&D Technical Director Floor Risk Management, US Army Corps of Engineers
 
-- **11:20 - 11:50** Session 5: Speaker TBA  
-  Speaker: Dr. Lina Sela
+- **11:00 - 11:30** Invited Talk 5: Networks and Infrastructure Resilience
+  Speaker: Dr. Alesia Chernikova, Northeastern University
 
-- **11:50 - 12:30** Lunch Break
+- **11:30 - 12:00** Invited Talk 6: Water Networks and Infrastructure
+  Speaker: Dr. Lina Sela, Professor, University of Texas - Austin
 
-- **12:30 - 12:45** Introduction to Experiential AI Institute  
-  Speakers: Usama & Jennifer
+- **12:00 - 12:15** Introduction to Experiential AI Institute
+  Speakers: Dr. Usama Fayyad, Director EAI, Dr. Jennifer Dy, Professor Department of Electrical and Computer Engineering, Northeastern University & Director of AI Faculty, EAI
 
-- **12:45 - 13:15** Session 6: Connections with other SERDP Projects  
-  Speakers: Dan Eisenberg, Dave Alderson
+- **12:15 - 12:45** Discussions and Next Steps leading to Workshop Report
 
-- **13:15 - 14:15** Session 7: Discussions and Next Steps leading to report
+- **12:45 - 14:00** Box Lunch & Adjourn
 
 
 <hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
