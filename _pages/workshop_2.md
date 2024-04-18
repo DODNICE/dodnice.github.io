@@ -48,7 +48,7 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
   Dr. Jianxi Gao, Associate Professor Computer Science and Center for Network Science and Technology, Rensselaer Polytechnic Institute
   
 - **12:15–13:00** Lunch
-- 
+  
 - **13:00-14:00** Panel Session 3: Translations for Mission Readiness  
   Moderator: Dr. Satish Chikkagoudar, Research Scientist, Center for High Assurance Computer Systems, US Naval Research Laboratory  
   Invited Panelists:  
