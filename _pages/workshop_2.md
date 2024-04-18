@@ -36,12 +36,12 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
   
 - **10:00–10:15** Coffee Break
   
-- **10:15-11:15** Panel Session 1: Climate and Compound Extremes  
+- **10:15-11:15** <span style="color:#0a8f76">**Panel Session 1:**</span> Climate and Compound Extremes  
   Moderator: Dr. Ben Trump, Research Social Scientist, US Army Corps of Engineers  
   Invited Panelists:  
   Dr. Subhra Misra, Deputy Director Climate Change Adaptation and Planning ODASD (Energy Resilience and Optimization) Office of Secretary of Defense & DoD Climate Action Team – Climate Preparedness and Resilience
   
-- **11:15-12:15** Panel Session 2: Methods and Theories for Installation Resilience  
+- **11:15-12:15** <span style="color:#0a8f76">**Panel Session 2:**</span> Methods and Theories for Installation Resilience  
   Moderator: Dr. Marta Gonzalez, Professor of City and Regional Planning and Physics Research Faculty of Energy Technology at Lawrence Berkeley National Lab, University of California – Berkeley  
   Invited Panelists:  
   Dr. Leonardo Duenas Osoria, Professor of Civil and Environmental Engineering, Rice University  
@@ -49,13 +49,13 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
   
 - **12:15–13:00** Lunch
   
-- **13:00-14:00** Panel Session 3: Translations for Mission Readiness  
+- **13:00-14:00** <span style="color:#0a8f76">**Panel Session 3:**</span> Translations for Mission Readiness  
   Moderator: Dr. Satish Chikkagoudar, Research Scientist, Center for High Assurance Computer Systems, US Naval Research Laboratory  
   Invited Panelists:  
   Dr. Craig Poulin, Lieutenant Colonel US Air Force & Adjunct Assistant Professor of Systems, Air Force Institute of Technology Engineering  
   Dr. Himangshu Das, Engineer, US Army Corps of Engineers
   
-- **14:00-15:00** Panel Session 4: Synergies with SERDP RC Projects  
+- **14:00-15:00** <span style="color:#0a8f76">**Panel Session 4:**</span> Synergies with SERDP RC Projects  
   Moderator: Dr. Sam Chatterjee, Chief Data Scientist with the Data Sciences and Machine Intelligence Group, US Department of Energy’s Pacific Northwest National Labs  
   Invited Panelists:  
   Dr. Sudershan Gangrade, Water Resources Engineer, Environmental Sciences Division, Oak Ridge National Laboratory  
@@ -76,24 +76,24 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
 
 - **08:30 - 09:00** Continental Breakfast - Outside Room: 333 Curry Center
 
-- **09:00 - 09:30** Invited Talk 1: Climate Adaptation  
+- **09:00 - 09:30** <span style="color:#0a8f76">**Invited Talk 1:**</span> Climate Adaptation  
   Speaker: Dr. Evan Kodra, Senior Director, Climate & ESG, Intercontinental Exchange ICE Data Services
 
-- **09:30 - 10:00** Invited Talk 2: Cyber Security  
+- **09:30 - 10:00** <span style="color:#0a8f76">**Invited Talk 2:**</span> Cyber Security  
   Speaker: Dr. Kaushik Chowdhury, Professor, Electrical and Computer Engineering Department, Associate Dean for Research, College of Engineering, Associate Director of the Institute for the Wireless of Internet of Things, Northeastern University
 
-- **10:00 - 10:20** Invited Talk 3: Energy Transitions  
+- **10:00 - 10:20** <span style="color:#0a8f76">**Invited Talk 3:**</span> Energy Transitions  
   Speaker: Dr. Ardeshir Contractor, Director of Strategic Research Projects, IA for Climate and Sustainability, Institute for Experiential AI, Northeastern University
 
 - **10:20 - 10:30** Coffee Break
 
-- **10:30 - 11:00** Invited Talk 4: Flood Risk Management  
+- **10:30 - 11:00** <span style="color:#0a8f76">**Invited Talk 4:**</span> Flood Risk Management  
   Speaker: Dr. Julie Rosati, Lead Civil Works R&D Technical Director; R&D Technical Director Floor Risk Management, US Army Corps of Engineers
 
-- **11:00 - 11:30** Invited Talk 5: Networks and Infrastructure Resilience  
+- **11:00 - 11:30** <span style="color:#0a8f76">**Invited Talk 5:**</span> Networks and Infrastructure Resilience  
   Speaker: Dr. Alesia Chernikova, Northeastern University
 
-- **11:30 - 12:00** Invited Talk 6: Water Networks and Infrastructure  
+- **11:30 - 12:00** <span style="color:#0a8f76">**Invited Talk 6:**</span> Water Networks and Infrastructure  
   Speaker: Dr. Lina Sela, Professor, University of Texas - Austin
 
 - **12:00 - 12:15** Introduction to Experiential AI Institute  
