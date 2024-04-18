@@ -23,39 +23,49 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
 ## Day One: NICE Thursday, April 25, 2024
 
 - **08:30–09:00** Continental Breakfast Outside Room: 333 Curry Center
+  
 - **09:00–09:05** Welcome and Introductions  
   Opening Comments: Dr. Auroop Ganguly – SERDP NICE PI
+  
 - **09:05-10:00** State of the NICE Project  
   Dr. Auroop Ganguly – Northeastern University  
   Dr. Sam Chatterjee – Pacific Northwest National Labs  
   Dr. Marta Gonzalez – University of California – Berkeley  
   Dr. Ben Trump – US Army Corps of Engineers  
   Dr. Satish Chikkagoudar – Naval Research Lab
+  
 - **10:00–10:15** Coffee Break
+  
 - **10:15-11:15** Panel Session 1: Climate and Compound Extremes  
   Moderator: Dr. Ben Trump, Research Social Scientist, US Army Corps of Engineers  
   Invited Panelists:  
   Dr. Subhra Misra, Deputy Director Climate Change Adaptation and Planning ODASD (Energy Resilience and Optimization) Office of Secretary of Defense & DoD Climate Action Team – Climate Preparedness and Resilience
+  
 - **11:15-12:15** Panel Session 2: Methods and Theories for Installation Resilience  
   Moderator: Dr. Marta Gonzalez, Professor of City and Regional Planning and Physics Research Faculty of Energy Technology at Lawrence Berkeley National Lab, University of California – Berkeley  
   Invited Panelists:  
   Dr. Leonardo Duenas Osoria, Professor of Civil and Environmental Engineering, Rice University  
   Dr. Jianxi Gao, Associate Professor Computer Science and Center for Network Science and Technology, Rensselaer Polytechnic Institute
+  
 - **12:15–13:00** Lunch
+- 
 - **13:00-14:00** Panel Session 3: Translations for Mission Readiness  
   Moderator: Dr. Satish Chikkagoudar, Research Scientist, Center for High Assurance Computer Systems, US Naval Research Laboratory  
   Invited Panelists:  
   Dr. Craig Poulin, Lieutenant Colonel US Air Force & Adjunct Assistant Professor of Systems, Air Force Institute of Technology Engineering  
   Dr. Himangshu Das, Engineer, US Army Corps of Engineers
+  
 - **14:00-15:00** Panel Session 4: Synergies with SERDP RC Projects  
   Moderator: Dr. Sam Chatterjee, Chief Data Scientist with the Data Sciences and Machine Intelligence Group, US Department of Energy’s Pacific Northwest National Labs  
   Invited Panelists:  
   Dr. Sudershan Gangrade, Water Resources Engineer, Environmental Sciences Division, Oak Ridge National Laboratory  
   Dr. Dave Alderson, Professor, Operations Research Department, Executive Director Center for Infrastructure Defense Naval Postgraduate School  
   Dr. Daniel Eisenberg, Director, Center for Infrastructure Defense, Naval Postgraduate School
+  
 - **15:00-16:00** Session 5: Integrating with DoD Toolkits  
   Opening Remarks: Dr. Auroop Ganguly  
   Invited Speaker: Dr. Todd Hay, Program Manager for Defense Climate Adaptation Toolkit at PNNL, US Department of Energy’s Pacific Northwest National Labs
+  
 - **16:00 - 19:00** Networking and (Happy Hour) and Dinner  
   Cabral Center  
   Address: 40 Leon Street, Boston  
