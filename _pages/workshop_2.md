@@ -64,7 +64,7 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
   
 - **15:00-16:00** <span style="color:#0a8f76">**Session 5:**</span> Integrating with DoD Toolkits  
   Opening Remarks: Dr. Auroop Ganguly  
-  Invited Speaker: Dr. Todd Hay, Program Manager for Defense Climate Adaptation Toolkit at PNNL, US Department of Energy’s Pacific Northwest National Labs
+  Invited Speaker: Dr. Todd Hay, Program Manager for Defense Climate Adaptation Toolkit at US Department of Energy’s Pacific Northwest National Labs
   
 - **16:00 - 19:00** Networking and (Happy Hour) and Dinner  
   Cabral Center  
