@@ -20,7 +20,7 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
 
 <hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
-<img src="https://github.com/DODNICE/dodnice.github.io/blob/gh-pages/images/Curry.png?raw=true" alt="Curry Center Image" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="https://github.com/DODNICE/dodnice.github.io/blob/gh-pages/images/Curry.png?raw=true" alt="Curry Center Image" style="display: block; margin-left: auto; margin-right: auto; width: 80%;">
 
 <hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
