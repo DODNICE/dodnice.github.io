@@ -49,7 +49,7 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
 - **11:15-12:15** <span style="color:#0a8f76">**Panel Session 2:**</span> Methods and Theories for Installation Resilience  
   Moderator: Dr. Marta Gonzalez, Professor of City and Regional Planning and Physics Research Faculty of Energy Technology at Lawrence Berkeley National Lab, University of California – Berkeley  
   Invited Panelists:  
-  Dr. Leonardo Duenas Osoria, Professor of Civil and Environmental Engineering, Rice University  
+  Dr. Leonardo Duenas Osorio, Professor of Civil and Environmental Engineering, Rice University  
   Dr. Jianxi Gao, Associate Professor Computer Science and Center for Network Science and Technology, Rensselaer Polytechnic Institute
   
 - **12:15–13:00** Lunch
