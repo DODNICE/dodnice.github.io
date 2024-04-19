@@ -22,8 +22,8 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
 
 <iframe
   src="https://www.google.com/maps/d/embed?mid=14THWs9Gmtlt-_Q1wN0APHUrs0oVk3Fk"
-  width="600"
-  height="450"
+  width="1000"
+  height="500"
   style="border:0;"
   allowfullscreen=""
   loading="lazy">
