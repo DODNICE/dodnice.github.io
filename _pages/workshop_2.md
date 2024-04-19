@@ -67,7 +67,7 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
   Dr. Dave Alderson, Professor, Operations Research Department, Executive Director Center for Infrastructure Defense Naval Postgraduate School  
   Dr. Daniel Eisenberg, Director, Center for Infrastructure Defense, Naval Postgraduate School
   
-- **15:00-16:00** <span style="color:#0a8f76">**Session 5:**</span> Integrating with DoD Toolkits  
+- **15:00-16:00** <span style="color:#0a8f76">**Panel Session 5:**</span> Integrating with DoD Toolkits  
   Opening Remarks: Dr. Auroop Ganguly  
   Invited Speaker: Dr. Todd Hay, Program Manager for Defense Climate Adaptation Toolkit at US Department of Energy’s Pacific Northwest National Labs
   
