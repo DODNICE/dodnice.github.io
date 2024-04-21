@@ -13,6 +13,8 @@ Jump to [US Patents](#us-patents) to see our Patents. -->
 **Strategic Environmental Research and Development Program (SERDP)**  
 **Networked Infrastructures under Compound Extremes (NICE)**
 
+The DoD SERDP "NICE" project is funded by US DoD’s Strategic Environmental Research and Development Program (SERDP). A brief description by the funder is provided [here](https://serdp-estcp.org/projects/details/4fac77f3-2966-49c4-b3b5-a91593cec6a2) and by Northeastern University [here](https://coe.northeastern.edu/news/ganguly-to-lead-3m-serdp-grant-for-networked-infrastructures-under-compound-extremes/), and overviews were subsequently presented with a “Virtual Poster” [here](https://www.youtube.com/watch?v=BRsifIgUdHA) and at a SERDP-ESTCP Symposium [here](https://www.youtube.com/watch?v=_I4a2t24_88). The [first workshop](https://dodnice.github.io/workshop_1/) for SERDP NICE was held during 1-3 November 2022.
+
 **Venue:** Northeastern University, Boston, MA (All times US EST)  
 **Location:** 333 Curry Center - Senate Chambers
 
