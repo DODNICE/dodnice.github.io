@@ -36,8 +36,6 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
 
 ## Day One: NICE Thursday, April 25, 2024
 
-## Day One: NICE Thursday, April 25, 2024
-
 - **08:30–09:00** Continental Breakfast Outside Room: 333 Curry Center
   
 - **09:00–09:05** Welcome and Introductions  
