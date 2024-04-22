@@ -101,7 +101,7 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
   Speaker: **Dr. Kaushik Chowdhury**, Professor, Electrical and Computer Engineering Department, Associate Dean for Research, College of Engineering, Associate Director of the Institute for the Wireless of Internet of Things, Northeastern University
 
 - **10:00 - 10:20** <span style="color:#0a8f76">**Invited Talk 3:**</span> Energy Transitions  
-  Speaker: **Ardeshir Contractor**, Director of Strategic Research Projects, AI for Climate and Sustainability, Institute for Experiential AI, Northeastern University
+  Speaker: **Mr. Ardeshir Contractor**, Director of Strategic Research Projects, AI for Climate and Sustainability, Institute for Experiential AI, Northeastern University
 
 - **10:20 - 10:30** Coffee Break
 
