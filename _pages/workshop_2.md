@@ -39,7 +39,7 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
 - **08:30–09:00** Continental Breakfast Outside Room: 333 Curry Center
   
 - **09:00–09:05** Welcome and Introductions  
-  Opening Comments: **Dr. Auroop Ganguly** – SERDP NICE PI
+  Opening Comments: **Dr. Auroop Ganguly** – SERDP NICE Lead PI  (Distinguished College of Engineering [Professor](https://coe.northeastern.edu/people/ganguly-auroop/), Director of the [SDS Lab](https://sdslab.io/): Sustainability and Data Sciences Laboratory, and Director of [AI4CaS](https://ai.northeastern.edu/ai-climate): AI for Climate and Sustainability, Northeastern University, Boston, MA)
   
 - **09:05-10:00** State of the NICE Project  
   **Dr. Auroop Ganguly** – Northeastern University  
@@ -112,7 +112,7 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
   Speaker: **Dr. Lina Sela**, Professor, University of Texas - Austin
 
 - **12:00 - 12:15** Introduction to Experiential AI Institute  
-  Speakers: **Dr. Usama Fayyad**, Director EAI, Dr. Jennifer Dy, Professor Department of Electrical and Computer Engineering, Northeastern University & Director of AI Faculty, EAI
+  Speakers: **Dr. Jennifer Dy**, Professor of the Department of Electrical and Computer Engineering, Director of AI Faculty at EAI and Core Faculty of AI for Climate and Sustainability (AI4CaS) at EAI, with **Dr. Usama Fayyad**, Director of the Institute for Experiential AI (EAI), Northeastern University
 
 - **12:15 - 12:45** Discussions and Next Steps leading to Workshop Report
 
