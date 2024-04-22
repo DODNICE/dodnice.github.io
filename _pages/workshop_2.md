@@ -56,7 +56,7 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
   Moderator: **Dr. Ben Trump**, Research Social Scientist, US Army Corps of Engineers  
   Invited Panelists:  
   **Dr. Subhra Misra**, Deputy Director Climate Change Adaptation and Planning ODASD (Energy Resilience and Optimization) Office of Secretary of Defense & DoD Climate Action Team – Climate Preparedness and Resilience  
-  **Dr. Rose Leopold**, Director of Business Resilience, Moderna  
+  **Ms. Rose Leopold**, Director of Business Resilience, Moderna  
   **Dr. Igor Linkov**, Senior Scientific Technical Manager (SSTM), Army Corps of Engineers, Boston, MA
 
 - **11:15-12:15** <span style="color:#0a8f76">**Panel Session 2:**</span> Methods and Theories for Installation Resilience  
