@@ -17,6 +17,9 @@ The DoD SERDP "NICE" project is funded by US DoD’s Strategic Environmental Res
 
 **Venue:** Northeastern University, Boston, MA (All times US EST)  
 **Location:** 333 Curry Center - Senate Chambers
+**Workshop Sponsor:** US Department of Defense: [DOD SERDP](https://serdp-estcp.mil/projects/details/4fac77f3-2966-49c4-b3b5-a91593cec6a2)
+**Workshop Co-Sponsors:** Northeastern University: [SDS Lab](https://sdslab.io/); [AI4CaS](https://ai.northeastern.edu/ai-climate); [COE](https://coe.northeastern.edu/people/ganguly-auroop/) 
+
 
 Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/Workshop_Flyer.pdf)
 
