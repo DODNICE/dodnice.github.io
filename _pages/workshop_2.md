@@ -117,7 +117,7 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
 - **12:00 - 12:10** Introduction to Experiential AI Institute  
   Speaker: **Dr. Usama Fayyad**, Director EAI
 
-- **12:10 - 12:30** <span style="color:#0a8f76">**Machine Learning for Climate Science:**</span>  
+- **12:10 - 12:30** Machine Learning for Climate Science
   Speaker: **Dr. Jennifer Dy**, Professor Department of Electrical and Computer Engineering, Northeastern University; Director of AI Faculty, EAI
 
 - **12:30 - 13:00** Discussions and Next Steps leading to Workshop Report
