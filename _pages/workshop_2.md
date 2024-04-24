@@ -114,13 +114,15 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
 - **11:30 - 12:00** <span style="color:#0a8f76">**Invited Talk 6:**</span> Water Networks and Infrastructure  
   Speaker: **Dr. Lina Sela**, Professor, University of Texas - Austin
 
-- **12:00 - 12:15** Introduction to Experiential AI Institute  
-  Speakers: **Dr. Jennifer Dy**, Professor of the Department of Electrical and Computer Engineering, Director of AI Faculty at EAI and Core Faculty of AI for Climate and Sustainability (AI4CaS) at EAI, with **Dr. Usama Fayyad**, Director of the Institute for Experiential AI (EAI), Northeastern University
+- **12:00 - 12:10** Introduction to Experiential AI Institute  
+  Speaker: **Dr. Usama Fayyad**, Director EAI
 
-- **12:15 - 12:45** Discussions and Next Steps leading to Workshop Report
+- **12:10 - 12:30** <span style="color:#0a8f76">**Machine Learning for Climate Science:**</span>  
+  Speaker: **Dr. Jennifer Dy**, Professor Department of Electrical and Computer Engineering, Northeastern University; Director of AI Faculty, EAI
 
-- **12:45 - 14:00** Box Lunch & Adjourn
+- **12:30 - 13:00** Discussions and Next Steps leading to Workshop Report
 
+- **13:00 - 14:00** Box Lunch & Adjourn
 
 
 <hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
