@@ -42,7 +42,7 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
 
 - **08:30–09:00** Continental Breakfast Outside Room: 333 Curry Center
   
-  [Day 1 Morning Teams Link](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NWFkYWI2YzMtNzRmMi00MDY3LTkzYjUtNjNkYzUwODY4Mzcz%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522a8eec281-aaa3-4dae-ac9b-9a398b9215e7%2522%252c%2522Oid%2522%253a%2522698bf87c-47b9-4c50-a96b-54897cab0f05%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=539b5584-649f-4216-a182-49bbfbdd5dbc&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)   
+  [**Day 1 Morning Teams Link**](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NWFkYWI2YzMtNzRmMi00MDY3LTkzYjUtNjNkYzUwODY4Mzcz%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522a8eec281-aaa3-4dae-ac9b-9a398b9215e7%2522%252c%2522Oid%2522%253a%2522698bf87c-47b9-4c50-a96b-54897cab0f05%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=539b5584-649f-4216-a182-49bbfbdd5dbc&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)   
 
 - **09:00–09:05** Welcome and Introductions  
   Opening Comments: **Dr. Auroop Ganguly** – SERDP NICE Lead PI  (Distinguished College of Engineering [Professor](https://coe.northeastern.edu/people/ganguly-auroop/), Director of the [SDS Lab](https://sdslab.io/): Sustainability and Data Sciences Laboratory, and Director of [AI4CaS](https://ai.northeastern.edu/ai-climate): AI for Climate and Sustainability, Northeastern University, Boston, MA)
@@ -70,7 +70,7 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
   
 - **12:15–13:00** Lunch
   
-  [Day 1 Afternoon Teams Link](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGQ1YjUyODEtNDhkMC00MDg2LWEwNTQtY2YwZjYyNmQzY2Ri%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522a8eec281-aaa3-4dae-ac9b-9a398b9215e7%2522%252c%2522Oid%2522%253a%2522698bf87c-47b9-4c50-a96b-54897cab0f05%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=eeb413d4-80d6-4d8d-aaa2-5d01d974a66b&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
+  [**Day 1 Afternoon Teams Link**](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGQ1YjUyODEtNDhkMC00MDg2LWEwNTQtY2YwZjYyNmQzY2Ri%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522a8eec281-aaa3-4dae-ac9b-9a398b9215e7%2522%252c%2522Oid%2522%253a%2522698bf87c-47b9-4c50-a96b-54897cab0f05%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=eeb413d4-80d6-4d8d-aaa2-5d01d974a66b&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
   
 - **13:00-14:00** <span style="color:#0a8f76">**Panel Session 3:**</span> Translations for Mission Readiness  
   Moderator: **Dr. Satish Chikkagoudar**, Research Scientist, Center for High Assurance Computer Systems, US Naval Research Laboratory  
@@ -102,7 +102,7 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
 
 - **08:30 - 09:00** Continental Breakfast - Outside Room: 333 Curry Center
   
-  [Day 2 Teams Link](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_Y2ZkNmE4ODktZDY0OS00NmY0LTkzYTktYWFhNzlmZmU2MGVm%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522a8eec281-aaa3-4dae-ac9b-9a398b9215e7%2522%252c%2522Oid%2522%253a%2522698bf87c-47b9-4c50-a96b-54897cab0f05%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=e3369e3c-7ff5-49c5-a87b-e91af7369e50&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
+  [**Day 2 Teams Link**](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_Y2ZkNmE4ODktZDY0OS00NmY0LTkzYTktYWFhNzlmZmU2MGVm%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522a8eec281-aaa3-4dae-ac9b-9a398b9215e7%2522%252c%2522Oid%2522%253a%2522698bf87c-47b9-4c50-a96b-54897cab0f05%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=e3369e3c-7ff5-49c5-a87b-e91af7369e50&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
 
 - **09:00 - 09:30** <span style="color:#0a8f76">**Invited Talk 1:**</span> Climate Adaptation  
   Speaker: **Dr. Evan Kodra**, Senior Director, Climate & ESG, Intercontinental Exchange ICE Data Services
