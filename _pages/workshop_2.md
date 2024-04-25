@@ -57,7 +57,6 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
 - **10:15-11:15** <span style="color:#0a8f76">**Panel Session 1:**</span> Climate and Compound Extremes  
   Moderator: **Dr. Ben Trump**, Research Social Scientist, US Army Corps of Engineers  
   Invited Panelists:  
-  **Dr. Subhra Misra**, Deputy Director Climate Change Adaptation and Planning ODASD (Energy Resilience and Optimization) Office of Secretary of Defense & DoD Climate Action Team – Climate Preparedness and Resilience  
   **Ms. Rose Leopold**, Director of Business Resilience, Moderna  
   **Dr. Igor Linkov**, Senior Scientific Technical Manager (SSTM), Army Corps of Engineers, Boston, MA
 
@@ -84,8 +83,10 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
   
 - **15:00-16:00** <span style="color:#0a8f76">**Panel Session 5:**</span> Integrating with DoD Toolkits  
   Opening Remarks: **Dr. Auroop Ganguly**  
-  Invited Speaker: **Dr. Todd Hay**, Program Manager for Defense Climate Adaptation Toolkit at US Department of Energy’s Pacific Northwest National Labs
-  
+  Invited Panelists: 
+  **Dr. Todd Hay**, Program Manager for Defense Climate Adaptation Toolkit at US Department of Energy’s Pacific Northwest National Labs
+  **Dr. Subhra Misra**, Deputy Director Climate Change Adaptation and Planning ODASD (Energy Resilience and Optimization) Office of Secretary of Defense & DoD Climate Action Team – Climate Preparedness and Resilience
+
 - **16:00 - 19:00** Networking and (Happy Hour) and Dinner  
   Cabral Center  
   Address: 40 Leon Street, Boston  
