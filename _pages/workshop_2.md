@@ -103,35 +103,35 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
   
   [**Day 2 Teams Link**](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_Y2ZkNmE4ODktZDY0OS00NmY0LTkzYTktYWFhNzlmZmU2MGVm%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522a8eec281-aaa3-4dae-ac9b-9a398b9215e7%2522%252c%2522Oid%2522%253a%2522698bf87c-47b9-4c50-a96b-54897cab0f05%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=e3369e3c-7ff5-49c5-a87b-e91af7369e50&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
 
+
 - **09:00 - 09:30** <span style="color:#0a8f76">**Invited Talk 1:**</span> Climate Adaptation  
-  Speaker: **Dr. Evan Kodra**, Senior Director, Climate & ESG, Intercontinental Exchange ICE Data Services
+  Speaker: [**Dr. Evan Kodra**](https://www.linkedin.com/in/evan-kodra-43bb0023/), Senior Director, Climate & ESG, Intercontinental Exchange ICE Data Services
 
 - **09:30 - 10:00** <span style="color:#0a8f76">**Invited Talk 2:**</span> Cyber Security  
-  Speaker: **Dr. Kaushik Chowdhury**, Professor, Electrical and Computer Engineering Department, Associate Dean for Research, College of Engineering, Associate Director of the Institute for the Wireless of Internet of Things, Northeastern University
+  Speaker: [**Dr. Kaushik Chowdhury**](https://coe.northeastern.edu/people/chowdhury-kaushik/), Professor, Electrical and Computer Engineering Department, Associate Dean for Research, College of Engineering, Associate Director of the Institute for the Wireless of Internet of Things, Northeastern University
 
 - **10:00 - 10:20** <span style="color:#0a8f76">**Invited Talk 3:**</span> Energy Transitions  
-  Speaker: **Mr. Ardeshir Contractor**, Director of Strategic Research Projects, AI for Climate and Sustainability, Institute for Experiential AI, Northeastern University
+  Speaker: [**Mr. Ardeshir Contractor**](https://www.linkedin.com/in/ardeshir-contractor-457487/), Director of Strategic Research Projects, AI for Climate and Sustainability, Institute for Experiential AI, Northeastern University
 
 - **10:20 - 10:30** Coffee Break
 
 - **10:30 - 11:00** <span style="color:#0a8f76">**Invited Talk 4:**</span> Flood Risk Management  
-  Speaker: **Dr. Julie Rosati**, Lead Civil Works R&D Technical Director; R&D Technical Director Floor Risk Management, US Army Corps of Engineers
+  Speaker: [**Dr. Julie Rosati**](https://www.linkedin.com/in/julie-rosati-5a072413/), Lead Civil Works R&D Technical Director; R&D Technical Director Flood Risk Management, US Army Corps of Engineers
 
 - **11:00 - 11:30** <span style="color:#0a8f76">**Invited Talk 5:**</span> Networks and Infrastructure Resilience  
-  Speaker: **Dr. Alesia Chernikova**, Northeastern University
+  Speaker: [**Dr. Alesia Chernikova**](https://www.khoury.northeastern.edu/people/alesia-chernikova/), Northeastern University
 
 - **11:30 - 12:00** <span style="color:#0a8f76">**Invited Talk 6:**</span> Water Networks and Infrastructure  
-  Speaker: **Dr. Lina Sela**, Professor, University of Texas - Austin
+  Speaker: [**Dr. Lina Sela**](https://sites.utexas.edu/selalina/), Professor, University of Texas - Austin
 
 - **12:00 - 12:10** Introduction to Experiential AI Institute  
-  Speaker: **Dr. Usama Fayyad**, Director EAI
+  Speaker: [**Dr. Usama Fayyad**](https://www.linkedin.com/in/ufayyad/), Director EAI
 
-- **12:10 - 12:30** Machine Learning for Climate Science
-  Speaker: **Dr. Jennifer Dy**, Professor Department of Electrical and Computer Engineering, Northeastern University; Director of AI Faculty, EAI
+- **12:10 - 12:30** Machine Learning for Climate Science  
+  Speaker: [**Dr. Jennifer Dy**](https://ece.northeastern.edu/fac-ece/jdy/), Professor Department of Electrical and Computer Engineering, Northeastern University; Director of AI Faculty, EAI
 
 - **12:30 - 13:00** Discussions and Next Steps leading to Workshop Report
 
 - **13:00 - 14:00** Box Lunch & Adjourn
-
 
 <hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
