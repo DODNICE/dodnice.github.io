@@ -73,24 +73,23 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
   [**Day 1 Afternoon Teams Link**](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGQ1YjUyODEtNDhkMC00MDg2LWEwNTQtY2YwZjYyNmQzY2Ri%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522a8eec281-aaa3-4dae-ac9b-9a398b9215e7%2522%252c%2522Oid%2522%253a%2522698bf87c-47b9-4c50-a96b-54897cab0f05%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=eeb413d4-80d6-4d8d-aaa2-5d01d974a66b&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
   
 - **13:00-14:00** <span style="color:#0a8f76">**Panel Session 3:**</span> Translations for Mission Readiness  
-  Moderator: **Dr. Satish Chikkagoudar**, Research Scientist, Center for High Assurance Computer Systems, US Naval Research Laboratory  
+  Moderator: [**Dr. Satish Chikkagoudar**](https://www.linkedin.com/in/satishchikkagoudar/), Research Scientist, Center for High Assurance Computer Systems, US Naval Research Laboratory  
   Invited Panelists:  
-  **Dr. Craig Poulin**, Lieutenant Colonel US Air Force & Adjunct Assistant Professor of Systems, Air Force Institute of Technology Engineering  
-  **Dr. Himangshu Das**, Engineer, US Army Corps of Engineers
+  [**Dr. Craig Poulin**](https://www.afit.edu/BIOS/bio.cfm?facID=2013), Lieutenant Colonel US Air Force & Adjunct Assistant Professor of Systems, Air Force Institute of Technology Engineering  
+  [**Dr. Himangshu Das**](https://www.linkedin.com/in/himangshu-das-22254023a/), Engineer, US Army Corps of Engineers
   
 - **14:00-15:00** <span style="color:#0a8f76">**Panel Session 4:**</span> Synergies with SERDP RC Projects  
-  Moderator: **Dr. Sam Chatterjee**, Chief Data Scientist with the Data Sciences and Machine Intelligence Group, US Department of Energy’s Pacific Northwest National Labs  
+  Moderator: [**Dr. Sam Chatterjee**](https://www.pnnl.gov/people/sam-chatterjee), Chief Data Scientist with the Data Sciences and Machine Intelligence Group, US Department of Energy’s Pacific Northwest National Labs  
   Invited Panelists:  
-  **Dr. Sudershan Gangrade**, Water Resources Engineer, Environmental Sciences Division, Oak Ridge National Laboratory  
-  **Dr. Dave Alderson**, Professor, Operations Research Department, Executive Director Center for Infrastructure Defense Naval Postgraduate School  
-  **Dr. Daniel Eisenberg**, Director, Center for Infrastructure Defense, Naval Postgraduate School
+  [**Dr. Sudershan Gangrade**](https://www.ornl.gov/staff-profile/sudershan-gangrade), Water Resources Engineer, Environmental Sciences Division, Oak Ridge National Laboratory  
+  [**Dr. Dave Alderson**](https://faculty.nps.edu/dlalders/), Professor, Operations Research Department, Executive Director Center for Infrastructure Defense Naval Postgraduate School  
+  [**Dr. Daniel Eisenberg**](https://ph.ucla.edu/about/faculty-staff-directory/daniel-eisenberg), Director, Center for Infrastructure Defense, Naval Postgraduate School
   
 - **15:00-16:00** <span style="color:#0a8f76">**Panel Session 5:**</span> Integrating with DoD Toolkits  
-  Opening Remarks: **Dr. Auroop Ganguly**  
+  Opening Remarks: [**Dr. Auroop Ganguly**](https://www.linkedin.com/in/auroop-ganguly-ab7ba34/)  
   Invited Panelists:  
-  **Dr. Todd Hay**, Program Manager for Defense Climate Adaptation Toolkit at US Department of Energy’s Pacific Northwest National Labs  
-  **Dr. Subhra Misra**, Deputy Director Climate Change Adaptation and Planning ODASD (Energy Resilience and Optimization) Office of Secretary of Defense & DoD Climate Action Team – Climate Preparedness and Resilience
-
+  [**Dr. Todd Hay**](https://www.pnnl.gov/people/todd-hay), Program Manager for Defense Climate Adaptation Toolkit at US Department of Energy’s Pacific Northwest National Labs  
+  [**Dr. Subhra Misra**](https://www.linkedin.com/in/shubhra-misra-0b75a7213/), Deputy Director Climate Change Adaptation and Planning ODASD (Energy Resilience and Optimization) Office of Secretary of Defense & DoD Climate Action Team – Climate Preparedness and Resilience
 
 - **16:00 - 19:00** Networking and (Happy Hour) and Dinner  
   Cabral Center  
