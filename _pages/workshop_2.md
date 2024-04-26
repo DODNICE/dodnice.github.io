@@ -45,28 +45,28 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
   [**Day 1 Morning Teams Link**](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NWFkYWI2YzMtNzRmMi00MDY3LTkzYjUtNjNkYzUwODY4Mzcz%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522a8eec281-aaa3-4dae-ac9b-9a398b9215e7%2522%252c%2522Oid%2522%253a%2522698bf87c-47b9-4c50-a96b-54897cab0f05%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=539b5584-649f-4216-a182-49bbfbdd5dbc&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)   
 
 - **09:00–09:05** Welcome and Introductions  
-  Opening Comments: **Dr. Auroop Ganguly** – SERDP NICE Lead PI  (Distinguished College of Engineering [Professor](https://coe.northeastern.edu/people/ganguly-auroop/), Director of the [SDS Lab](https://sdslab.io/): Sustainability and Data Sciences Laboratory, and Director of [AI4CaS](https://ai.northeastern.edu/ai-climate): AI for Climate and Sustainability, Northeastern University, Boston, MA)
+  Opening Comments: [**Dr. Auroop Ganguly**](https://www.linkedin.com/in/auroop-ganguly-ab7ba34/) – SERDP NICE Lead PI  (Distinguished College of Engineering [Professor](https://coe.northeastern.edu/people/ganguly-auroop/), Director of the [SDS Lab](https://sdslab.io/): Sustainability and Data Sciences Laboratory, and Director of [AI4CaS](https://ai.northeastern.edu/ai-climate): AI for Climate and Sustainability, Northeastern University, Boston, MA)
   
 - **09:05-10:00** State of the NICE Project  
-  **Dr. Auroop Ganguly** – Northeastern University  
-  **Dr. Sam Chatterjee** – Pacific Northwest National Labs  
-  **Dr. Marta Gonzalez** – University of California – Berkeley  
-  **Dr. Ben Trump** – US Army Corps of Engineers  
-  **Dr. Satish Chikkagoudar** – Naval Research Lab
+  [**Dr. Auroop Ganguly**](https://www.linkedin.com/in/auroop-ganguly-ab7ba34/) – Northeastern University  
+  [**Dr. Sam Chatterjee**](https://www.pnnl.gov/people/sam-chatterjee) – Pacific Northwest National Labs  
+  [**Dr. Marta Gonzalez**](https://ced.berkeley.edu/people/marta-gonzalez) – University of California – Berkeley  
+  [**Dr. Ben Trump**](https://www.linkedin.com/in/benjamin-trump-ba062523/) – US Army Corps of Engineers  
+  [**Dr. Satish Chikkagoudar**](https://www.linkedin.com/in/satishchikkagoudar/) – Naval Research Lab
   
 - **10:00–10:15** Coffee Break
   
 - **10:15-11:15** <span style="color:#0a8f76">**Panel Session 1:**</span> Climate and Compound Extremes  
-  Moderator: **Dr. Ben Trump**, Research Social Scientist, US Army Corps of Engineers  
+  Moderator: [**Dr. Ben Trump**](https://www.linkedin.com/in/benjamin-trump-ba062523/), Research Social Scientist, US Army Corps of Engineers  
   Invited Panelists:  
-  **Ms. Rose Leopold**, Director of Business Resilience, Moderna  
-  **Dr. Igor Linkov**, Senior Scientific Technical Manager (SSTM), Army Corps of Engineers, Boston, MA
+  [**Ms. Rose Leopold**](https://www.linkedin.com/in/roseleopold/), Director of Business Resilience, Moderna  
+  [**Dr. Igor Linkov**](https://www.aiche.org/community/bio/dr-igor-linkov), Senior Scientific Technical Manager (SSTM), Army Corps of Engineers, Boston, MA
 
 - **11:15-12:15** <span style="color:#0a8f76">**Panel Session 2:**</span> Methods and Theories for Installation Resilience  
-  Moderator: **Dr. Marta Gonzalez**, Professor of City and Regional Planning and Physics Research Faculty of Energy Technology at Lawrence Berkeley National Lab, University of California – Berkeley  
+  Moderator: [**Dr. Marta Gonzalez**](https://ced.berkeley.edu/people/marta-gonzalez), Professor of City and Regional Planning and Physics Research Faculty of Energy Technology at Lawrence Berkeley National Lab, University of California – Berkeley  
   Invited Panelists:  
-  **Dr. Leonardo Duenas Osorio**, Professor of Civil and Environmental Engineering, Rice University  
-  **Dr. Jianxi Gao**, Associate Professor Computer Science and Center for Network Science and Technology, Rensselaer Polytechnic Institute
+  [**Dr. Leonardo Duenas Osorio**](https://profiles.rice.edu/faculty/leonardo-duenas-osorio), Professor of Civil and Environmental Engineering, Rice University  
+  [**Dr. Jianxi Gao**](https://faculty.rpi.edu/jianxi-gao), Associate Professor Computer Science and Center for Network Science and Technology, Rensselaer Polytechnic Institute
   
 - **12:15–13:00** Lunch
   
