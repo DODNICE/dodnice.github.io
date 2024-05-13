@@ -49,7 +49,7 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
 - **09:00–09:05** Welcome and Introductions  
   Opening Comments: [**Dr. Auroop Ganguly**](https://www.linkedin.com/in/auroop-ganguly-ab7ba34/) – SERDP NICE Lead PI  (Distinguished College of Engineering [Professor](https://coe.northeastern.edu/people/ganguly-auroop/), Director of the [SDS Lab](https://sdslab.io/): Sustainability and Data Sciences Laboratory, and Director of [AI4CaS](https://ai.northeastern.edu/ai-climate): AI for Climate and Sustainability, Northeastern University, Boston, MA)
   
-- **09:05-10:00** State of the NICE Project  
+- **09:05-10:00** State of the NICE Project  || [Slide Deck]({{ site.baseurl }}/downloads/NICE April 25-26 2024 Workshop State of NICE 24 Apr 24.pdf)
   [**Dr. Auroop Ganguly**](https://www.linkedin.com/in/auroop-ganguly-ab7ba34/) – Northeastern University  
   [**Dr. Sam Chatterjee**](https://www.pnnl.gov/people/sam-chatterjee) – Pacific Northwest National Labs  
   [**Dr. Marta Gonzalez**](https://ced.berkeley.edu/people/marta-gonzalez) – University of California – Berkeley  
