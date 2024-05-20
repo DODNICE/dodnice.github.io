@@ -139,7 +139,7 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
 <hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
 ## Recorded Sessions: 
-# Day 1_Afternoon Session
+### Day 1_Afternoon Session
 
 1. [Opening Comments: Dr. Auroop Ganguly](https://youtu.be/qKP0Cj2wZw4?t=0)
 
@@ -166,7 +166,7 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
 12. [Closing Remarks - Dr. Auroop Ganguly](https://youtu.be/qKP0Cj2wZw4?t=10612)
 
 
-# Day 2_Part 2
+### Day 2_Part 2
 
 
 1. [Dr. David Alderson - Continuation on Rethinking Research for Critical Infrastructure](https://youtu.be/GagTw5NjvgM?t=0)
