@@ -138,32 +138,41 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
 
 <hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
-## Recorded Sessions: Day 1_Afternoon Session
+## Recorded Sessions: 
+# Day 1_Afternoon Session
 
-1. **[Opening Comments: Dr. Auroop Ganguly](https://youtu.be/qKP0Cj2wZw4?t=0)**
+1. [Opening Comments: Dr. Auroop Ganguly](https://youtu.be/qKP0Cj2wZw4?t=0)
 
-2. **[Moderator: Dr. Satish Chikkagoudar - Introduction](https://youtu.be/qKP0Cj2wZw4?t=76)**
+2. [Moderator: Dr. Satish Chikkagoudar - Introduction](https://youtu.be/qKP0Cj2wZw4?t=76)
 
-3. **[Invited Panelists: Dr. Craig Poulin - Professional Education Program for Civil Engineers in the Air Force](https://youtu.be/qKP0Cj2wZw4?t=210)**
+3. [Invited Panelists: Dr. Craig Poulin - Professional Education Program for Civil Engineers in the Air Force](https://youtu.be/qKP0Cj2wZw4?t=210)
 
-4. **[Dr. Himangshu Das - Case Studies for Flood Protection and Resilient Infrastructure](https://youtu.be/qKP0Cj2wZw4?t=2317)**
+4. [Dr. Himangshu Das - Case Studies for Flood Protection and Resilient Infrastructure](https://youtu.be/qKP0Cj2wZw4?t=2317)
 
-5. **[Dr. Subhra Misra - Climate Dashboard Tool for Guam](https://youtu.be/qKP0Cj2wZw4?t=3770)**
+5. [Dr. Subhra Misra - Climate Dashboard Tool for Guam](https://youtu.be/qKP0Cj2wZw4?t=3770)
 
-6. **[Session 4: Dr. Sam Chatterjee opening comments regarding synergies with SERDP RC Projects](https://youtu.be/qKP0Cj2wZw4?t=4012)**
+6. [Session 4: Dr. Sam Chatterjee opening comments regarding synergies with SERDP RC Projects](https://youtu.be/qKP0Cj2wZw4?t=4012)
 
-7. **[Dr. Sudershan Gangrader - Development of Climate-Informed Flood Vulnerability Assessment](https://youtu.be/qKP0Cj2wZw4?t=4131)**
+7. [Dr. Sudershan Gangrader - Development of Climate-Informed Flood Vulnerability Assessment](https://youtu.be/qKP0Cj2wZw4?t=4131)
 
-8. **[Dr. Dave Alderson - Critical Infrastructure Resilience Collaboration & Assessment](https://youtu.be/qKP0Cj2wZw4?t=5193)**
+8. [Dr. Dave Alderson - Critical Infrastructure Resilience Collaboration & Assessment](https://youtu.be/qKP0Cj2wZw4?t=5193)
 
-9. **[Advancing Resilience Theory and Tools to Combat Environmental Surprise](https://youtu.be/qKP0Cj2wZw4?t=5955)**
+9. [Advancing Resilience Theory and Tools to Combat Environmental Surprise](https://youtu.be/qKP0Cj2wZw4?t=5955)
 
-10. **[Four Notions of Resilience](https://youtu.be/qKP0Cj2wZw4?t=7745)**
+10. [Four Notions of Resilience](https://youtu.be/qKP0Cj2wZw4?t=7745)
 
-11. **[Break](https://youtu.be/qKP0Cj2wZw4?t=8431)**
+11. [Dr. Todd Hay - Environmental Security Decision Support](https://youtu.be/qKP0Cj2wZw4?t=8508)
 
-12. **[Dr. Todd Hay - Environmental Security Decision Support](https://youtu.be/qKP0Cj2wZw4?t=8508)**
+12. [Closing Remarks - Dr. Auroop Ganguly](https://youtu.be/qKP0Cj2wZw4?t=10612)
 
-13. **[Closing Remarks - Dr. Auroop Ganguly](https://youtu.be/qKP0Cj2wZw4?t=10612)**
+
+# Day 2_Part 2
+
+
+1. [Dr. David Alderson - Continuation on Rethinking Research for Critical Infrastructure](https://youtu.be/GagTw5NjvgM?t=0)
+
+2. [Dr. Usama Fayyad - Introduction to Experiential AI Institute](https://youtu.be/GagTw5NjvgM?t=765)
+
+3. [Dr. Jennifer Dy - Machine Learning for Climate Science and closing](https://youtu.be/GagTw5NjvgM?t=2864)
 
 
