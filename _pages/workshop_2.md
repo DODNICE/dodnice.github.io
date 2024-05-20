@@ -137,3 +137,21 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
 - **13:00 - 14:00** Box Lunch & Adjourn
 
 <hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
+
+## Recorded Sessions: Day 1_Afternoon Session
+
+1. **Opening Comments: Dr. Auroop Ganguly** (00:00 - 01:15)
+   - [Opening Comments: Dr. Auroop Ganguly](https://youtu.be/qKP0Cj2wZw4?t=0)
+
+2. **Moderator: Dr. Satish Chikkagoudar - Introduction** (01:16 - 03:29)
+   - [Moderator: Dr. Satish Chikkagoudar - Introduction](https://youtu.be/qKP0Cj2wZw4?t=76)
+
+3. **Invited Panelists: Dr. Craig Poulin - Professional Education Program for Civil Engineers in the Air Force** (03:30 - 37:59)
+   - [Invited Panelists: Dr. Craig Poulin](https://youtu.be/qKP0Cj2wZw4?t=210)
+
+4. **Dr. Himangshu Das - Case Studies for Flood Protection and Resilient Infrastructure** (38:37 - 59:32)
+   - [Dr. Himangshu Das](https://youtu.be/qKP0Cj2wZw4?t=2317)
+
+5. **Dr. Subhra Misra - Climate Dashboard Tool for Guam** (1:02:50 - 1:04:50)
+   - [Dr. Subhra Misra](https://youtu.be/qKP0Cj2wZw4?t=3770)
+
