@@ -140,18 +140,30 @@ Download the Workshop Flyer here: [Workshop Flyer]({{ site.baseurl }}/downloads/
 
 ## Recorded Sessions: Day 1_Afternoon Session
 
-1. **Opening Comments: Dr. Auroop Ganguly** (00:00 - 01:15)
-   - [Opening Comments: Dr. Auroop Ganguly](https://youtu.be/qKP0Cj2wZw4?t=0)
+1. **[Opening Comments: Dr. Auroop Ganguly](https://youtu.be/qKP0Cj2wZw4?t=0)**
 
-2. **Moderator: Dr. Satish Chikkagoudar - Introduction** (01:16 - 03:29)
-   - [Moderator: Dr. Satish Chikkagoudar - Introduction](https://youtu.be/qKP0Cj2wZw4?t=76)
+2. **[Moderator: Dr. Satish Chikkagoudar - Introduction](https://youtu.be/qKP0Cj2wZw4?t=76)**
 
-3. **Invited Panelists: Dr. Craig Poulin - Professional Education Program for Civil Engineers in the Air Force** (03:30 - 37:59)
-   - [Invited Panelists: Dr. Craig Poulin](https://youtu.be/qKP0Cj2wZw4?t=210)
+3. **[Invited Panelists: Dr. Craig Poulin - Professional Education Program for Civil Engineers in the Air Force](https://youtu.be/qKP0Cj2wZw4?t=210)**
 
-4. **Dr. Himangshu Das - Case Studies for Flood Protection and Resilient Infrastructure** (38:37 - 59:32)
-   - [Dr. Himangshu Das](https://youtu.be/qKP0Cj2wZw4?t=2317)
+4. **[Dr. Himangshu Das - Case Studies for Flood Protection and Resilient Infrastructure](https://youtu.be/qKP0Cj2wZw4?t=2317)**
 
-5. **Dr. Subhra Misra - Climate Dashboard Tool for Guam** (1:02:50 - 1:04:50)
-   - [Dr. Subhra Misra](https://youtu.be/qKP0Cj2wZw4?t=3770)
+5. **[Dr. Subhra Misra - Climate Dashboard Tool for Guam](https://youtu.be/qKP0Cj2wZw4?t=3770)**
+
+6. **[Session 4: Dr. Sam Chatterjee opening comments regarding synergies with SERDP RC Projects](https://youtu.be/qKP0Cj2wZw4?t=4012)**
+
+7. **[Dr. Sudershan Gangrader - Development of Climate-Informed Flood Vulnerability Assessment](https://youtu.be/qKP0Cj2wZw4?t=4131)**
+
+8. **[Dr. Dave Alderson - Critical Infrastructure Resilience Collaboration & Assessment](https://youtu.be/qKP0Cj2wZw4?t=5193)**
+
+9. **[Advancing Resilience Theory and Tools to Combat Environmental Surprise](https://youtu.be/qKP0Cj2wZw4?t=5955)**
+
+10. **[Four Notions of Resilience](https://youtu.be/qKP0Cj2wZw4?t=7745)**
+
+11. **[Break](https://youtu.be/qKP0Cj2wZw4?t=8431)**
+
+12. **[Dr. Todd Hay - Environmental Security Decision Support](https://youtu.be/qKP0Cj2wZw4?t=8508)**
+
+13. **[Closing Remarks - Dr. Auroop Ganguly](https://youtu.be/qKP0Cj2wZw4?t=10612)**
+
 
